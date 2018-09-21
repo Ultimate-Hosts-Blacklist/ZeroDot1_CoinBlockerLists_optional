@@ -1,0 +1,36 @@
+env:
+  global:
+    - secure: tLSFzTjrdcO4kKOciTf5LZa15OA5WDJQv9vABbfFK3+rlcsnt4MgmplfjeYzGr/tdwN85PjZDAIzvEyVVsedw5XoIdxhgcK+MZH5xoUUi6fpT0KGuOtJqik88P7LdMPGHCIbeoRwPYOBd4/wrBPUCA9duBZgSNA1JT8kYCx5ylY7utjEve7LsaBxGG/1bQ0xr8v0nCkQ80gyqB64zNXexlDSSH+dZU2KYWG1InwKULzw/mhtTWXyrMc0UYnnzJgzVErIVFRONiUQcmt6WaJZ3gAjewYN2m+t6m5aESyo9m3NZ9x2eFXZY/GuLRFs9Bdz9bgirGuI5Sycb0ATvz6VhdMrU9p7bH3uIE3ob1XIaZd0oiU21FGmYlANwxm16tddJQ7zTjTVREx53z335CFLQxR+Xy0uq2h+7RGd+KVtDlwkeUtwxWlC2j96uo6rzHaxYoVwSf8aiCu7ooCoCIF4Gtcr7eZJvzMZprXZzVsUGG6NrlH836fLrrv0TdgAvTjQ+APAf1R7dSnRm9QSfbHlaQ+wxVjs5/xNj8dTwAY4TCfxWBSrgxgfg/OQgLsbyweDGV7Xy0kFeHxy1tPEo/No058l4mYk4HXqOnXYI46EMlAsrMMga/MoRzEPEHtHqtRnFBOgJ8iti69VtLRkJGCLmZmVlmWrVX9hEmzDLRmT36c=
+    - GIT_NAME: Travis CI
+    - GIT_EMAIL: dead-hosts@funilrys.com
+    - TRAVIS_REPO_SLUG: Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists_optional
+    - GIT_BRANCH: master
+
+dist: xenial
+sudo: required
+language: python
+
+python:
+  - "3.7"
+
+matrix:
+  fast_finish: true
+
+cache:
+  - pip
+
+addons:
+  apt:
+    packages:
+      - dos2unix
+
+install:
+  - pip3 install --upgrade pip
+  - pip3 install requests
+
+script:
+  - python3 ./update.py
+
+notifications:
+  on_success:   change
+  on_failure:   always
