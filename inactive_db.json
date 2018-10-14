@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists_optional/domains.list": {
-        "1539378665": [
+        "1539552387": [
             "ad001.a-ads.com",
             "ad004.a-ads.com",
             "ad005.a-ads.com",
@@ -46,8 +46,6 @@
             "ftp.imperiumminer.com",
             "ftp.miningfarmasics.com",
             "i2p.emercoin.com",
-            "imperiumminer.com",
-            "kncminer.com",
             "lb4.a-ads.com",
             "mail.imperiumminer.com",
             "mail.mymonero.com",
