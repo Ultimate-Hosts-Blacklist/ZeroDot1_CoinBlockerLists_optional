@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists_optional/domains.list": {
-        "1546206572": [
+        "1546552274": [
             "ad001.a-ads.com",
             "ad004.a-ads.com",
             "ad005.a-ads.com",
@@ -71,6 +71,7 @@
             "nodes2.cryptopia.co.nz",
             "nostalgia.bitfinex.com",
             "ns2.a-ads.com",
+            "pandaminer.co",
             "pay.bithumb.com",
             "pools1.cryptopia.co.nz",
             "pools2.cryptopia.co.nz",
@@ -110,6 +111,7 @@
             "www.ltc-bitcore3.trezor.io",
             "www.miningfarmasics.com",
             "www.old-wallet.trezor.io",
+            "www.pandaminer.co",
             "www.preorder.trezor.io",
             "www.rm.cointraffic.io",
             "www.rpc.myetherwallet.com",
