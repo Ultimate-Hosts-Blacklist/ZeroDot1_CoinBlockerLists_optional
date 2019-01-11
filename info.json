@@ -6,7 +6,7 @@
     "days_until_next_test": "2",
     "last_test": "1547071783",
     "list_name": "domains.list",
-    "name": "Domain Status Testing for Ultimate Hosts Blacklist",
+    "name": "ZeroDot1_CoinBlockerLists_optional",
     "raw_link": "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_optional.txt",
     "stable": "1"
 }
