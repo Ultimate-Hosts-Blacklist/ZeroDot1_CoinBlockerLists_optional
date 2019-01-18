@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists_optional/domains.list": {
-        "1547675910": [
+        "1547849550": [
             "ad001.a-ads.com",
             "ad004.a-ads.com",
             "ad005.a-ads.com",
@@ -121,7 +121,6 @@
             "www.shop.simplemining.net",
             "www.shop.trezor.io",
             "www.status.trezor.io",
-            "www.uclick.in",
             "www.wallet.trezor.io",
             "www.wiki.trezor.io",
             "www.zec-bitcore1.trezor.io",
