@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists_optional/domains.list": {
-        "1548108926": [
+        "1548454970": [
             "ad001.a-ads.com",
             "ad004.a-ads.com",
             "ad005.a-ads.com",
@@ -42,6 +42,7 @@
             "cdn1.cryptopia.co.nz",
             "chf.a-ads.com",
             "cpanel.imperiumminer.com",
+            "dash-bitcore1.trezor.io",
             "dev.a-ads.com",
             "download.emercoin.com",
             "event.btc-alpha.com",
@@ -75,6 +76,7 @@
             "pools2.cryptopia.co.nz",
             "pop3.awesomeminer.com",
             "redmine.emercoin.com",
+            "rpc.myetherwallet.com",
             "s.a-ads.com",
             "smtp.awesomeminer.com",
             "stats.ethc.io",
