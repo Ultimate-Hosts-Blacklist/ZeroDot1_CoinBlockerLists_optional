@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists_optional/domains.list": {
-        "1549059306": [
+        "1549405559": [
             "ad001.a-ads.com",
             "ad004.a-ads.com",
             "ad005.a-ads.com",
@@ -40,6 +40,7 @@
             "autodiscover.btc-alpha.com",
             "aws.simplemining.net",
             "basicdemo.emercoin.com",
+            "bch-bitcore2.trezor.io",
             "beta.bitfinex.com",
             "beta.simplemining.net",
             "btc.a-ads.com",
