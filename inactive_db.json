@@ -180,7 +180,8 @@
             "www.wallet.trezor.io",
             "www.wiki.trezor.io",
             "www.zec-bitcore1.trezor.io",
-            "zec-bitcore1.trezor.io"
+            "zec-bitcore1.trezor.io",
+            "www.kncminer.com"
         ],
         "to_test": []
     }
