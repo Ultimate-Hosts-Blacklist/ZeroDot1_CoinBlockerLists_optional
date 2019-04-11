@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists_optional/domains.list": {
-        "1554850006": [
+        "1555024193": [
             "ad.s.a-ads.com",
             "ad001.a-ads.com",
             "ad004.a-ads.com",
@@ -70,6 +70,7 @@
             "ftp.awesomeminer.com",
             "ftp.imperiumminer.com",
             "ftp.miningfarmasics.com",
+            "ftp.quadrigacx.com",
             "games.cryptopia.co.nz",
             "healthbeauty.cryptopia.co.nz",
             "help.cryptopia.co.nz",
@@ -84,6 +85,7 @@
             "linfen.cryptopia.co.nz",
             "load.cryptopia.co.nz",
             "localhost.cryptopia.co.nz",
+            "localhost.quadrigacx.com",
             "lt.cryptopia.co.nz",
             "ltc-bitcore3.trezor.io",
             "ltc.cryptopia.co.nz",
@@ -110,7 +112,6 @@
             "nostalgia.bitfinex.com",
             "ns2.a-ads.com",
             "office.cryptopia.co.nz",
-            "pandaminer.co",
             "parners.cryptopia.co.nz",
             "pay.bithumb.com",
             "poc.simplemining.net",
@@ -173,7 +174,6 @@
             "www.miningfarmasics.com",
             "www.old-wallet.trezor.io",
             "www.overflow.mycrypto.com",
-            "www.pandaminer.co",
             "www.pay.bithumb.com",
             "www.preorder.trezor.io",
             "www.rm.cointraffic.io",
