@@ -15,6 +15,7 @@ api.bitfinex.com
 api.bithumb.com
 api.btcturk.com
 api.coinmama.com
+api.inwemo.com
 api.jaxx.io
 api.ledgerwallet.com
 api.mymonero.com
@@ -250,7 +251,6 @@ orders.whattomine.com
 overflow.mycrypto.com
 p2pool.in
 pandaminer.co
-parthk.co.uk
 peerhash.com
 pg-relay.bithumb.com
 pool.emercoin.com
@@ -330,6 +330,7 @@ webmail.antminer-store.com
 webmail.uclick.in
 whattomine.com
 whm.gameofbitcoins.com
+widget.coinmama.com
 wiki.evergreencoin.org
 wiki.trezor.io
 winter.mycrypto.com
@@ -388,6 +389,7 @@ www.faucethub.io
 www.forum.bitcoin.org
 www.ftp.binance.com
 www.gameofbitcoins.com
+www.getbitcoin.nz
 www.getmonero.org
 www.global.binance.com
 www.hashcoin.io
@@ -420,7 +422,6 @@ www.myetherwallet.com
 www.mymonero.com
 www.p2pool.in
 www.pandaminer.co
-www.parthk.co.uk
 www.peerhash.com
 www.psychomining.de
 www.quadrigacx.com
