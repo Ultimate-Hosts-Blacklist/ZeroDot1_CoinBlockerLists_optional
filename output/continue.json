@@ -432,7 +432,8 @@
         "www.cloud.cryptoguiminer.com",
         "test.rockwall.investments",
         "graphql.bixin.im",
-        "o3.em.quadrigacx.com"
+        "o3.em.quadrigacx.com",
+        "blog.trezor.io"
     ],
     "INACTIVE": [
         "ad014.a-ads.com",
@@ -631,6 +632,8 @@
         "mail.peerhash.com",
         "smtp.awesomeminer.com",
         "webmail.awesomeminer.com",
-        "webmail.imperiumminer.com"
+        "webmail.imperiumminer.com",
+        "www.blog.trezor.io",
+        "www.forum.bitcoin.org"
     ]
 }
