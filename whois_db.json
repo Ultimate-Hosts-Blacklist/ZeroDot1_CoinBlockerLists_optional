@@ -85,8 +85,8 @@
         "state": "future"
     },
     "cex.io": {
-        "epoch": "1561852800",
-        "expiration_date": "30-jun-2019",
+        "epoch": 1593475200,
+        "expiration_date": "30-jun-2020",
         "state": "future"
     },
     "chainradar.com": {
@@ -397,6 +397,11 @@
     "superbitcoiner.com": {
         "epoch": "1579996800",
         "expiration_date": "26-jan-2020",
+        "state": "future"
+    },
+    "tradewin.online": {
+        "epoch": 1695513600,
+        "expiration_date": "24-sep-2023",
         "state": "future"
     },
     "trezor.io": {
