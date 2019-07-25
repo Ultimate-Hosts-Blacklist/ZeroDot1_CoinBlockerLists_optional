@@ -43,7 +43,6 @@
             "www.hashcoin.io": "",
             "www.ico.icerockmining.io": "",
             "www.imperiumminer.com": "",
-            "www.overflow.mycrypto.com": "",
             "www.parthk.co.uk": "",
             "www.preorder.trezor.io": "",
             "www.wallet.trezor.io": ""
@@ -216,7 +215,6 @@
             "www.ltc.cryptopia.co.nz": "",
             "www.miningfarmasics.com": "",
             "www.old-wallet.trezor.io": "",
-            "www.overflow.mycrypto.com": "",
             "www.parthk.co.uk": "",
             "www.pay.bithumb.com": "",
             "www.preorder.trezor.io": "",
@@ -613,7 +611,6 @@
             "www.btc-bitcore1.trezor.io": "INACTIVE",
             "www.getbitcoin.nz": "INACTIVE",
             "www.hashcoin.io": "INACTIVE",
-            "www.overflow.mycrypto.com": "INACTIVE",
             "zec-bitcore1.trezor.io": "INACTIVE"
         },
         "1562456384": {
@@ -916,6 +913,22 @@
             "www.apps2.cointraffic.io": "INACTIVE",
             "www.bitcoin-doubler.us": "INACTIVE",
             "www.shop.simplemining.net": "INACTIVE"
+        },
+        "1564098271": {
+            "cpanel.imperiumminer.com": "INACTIVE",
+            "i2p.emercoin.com": "INACTIVE",
+            "imperiumminer.com": "INACTIVE",
+            "minecraft.cryptopia.co.nz": "INACTIVE",
+            "mx.peerhash.com": "INACTIVE",
+            "pools2.cryptopia.co.nz": "INACTIVE",
+            "rpc.myetherwallet.com": "INACTIVE",
+            "smtp.awesomeminer.com": "INACTIVE",
+            "ws.bitfinex.com": "INACTIVE",
+            "www.bch-bitcore2.trezor.io": "INACTIVE",
+            "www.bitcoin-doubler.us": "INACTIVE",
+            "www.overflow.mycrypto.com": "INACTIVE",
+            "www.pay.bithumb.com": "INACTIVE",
+            "www.psychomining.de": "INACTIVE"
         }
     }
 }
