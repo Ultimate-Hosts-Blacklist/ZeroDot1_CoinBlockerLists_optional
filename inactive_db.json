@@ -929,6 +929,30 @@
             "www.overflow.mycrypto.com": "INACTIVE",
             "www.pay.bithumb.com": "INACTIVE",
             "www.psychomining.de": "INACTIVE"
+        },
+        "1564270871": {
+            "ad217.a-ads.com": "INACTIVE",
+            "beta.simplemining.net": "INACTIVE",
+            "bng.btc-alpha.com": "INACTIVE",
+            "cpanel.imperiumminer.com": "INACTIVE",
+            "disney.cryptopia.co.nz": "INACTIVE",
+            "investor.cryptopia.co.nz": "INACTIVE",
+            "jira.cryptopia.co.nz": "INACTIVE",
+            "ltc.cryptopia.co.nz": "INACTIVE",
+            "ns2.a-ads.com": "INACTIVE",
+            "pools2.cryptopia.co.nz": "INACTIVE",
+            "pop3.awesomeminer.com": "INACTIVE",
+            "preprod.simplemining.net": "INACTIVE",
+            "rpc.myetherwallet.com": "INACTIVE",
+            "s.a-ads.com": "INACTIVE",
+            "w.cryptopia.co.nz": "INACTIVE",
+            "wiki.emercoin.com": "INACTIVE",
+            "www.api.mymonero.com": "INACTIVE",
+            "www.apps.cointraffic.io": "INACTIVE",
+            "www.getbitcoin.nz": "INACTIVE",
+            "www.old-wallet.trezor.io": "INACTIVE",
+            "www.shop.simplemining.net": "INACTIVE",
+            "www.tradewin.online": "INACTIVE"
         }
     }
 }
