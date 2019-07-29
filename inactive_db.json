@@ -52,7 +52,6 @@
             "ad001.a-ads.com": "",
             "ad004.a-ads.com": "",
             "ad005.a-ads.com": "",
-            "ad007.a-ads.com": "",
             "ad008.a-ads.com": "",
             "ad009.a-ads.com": "",
             "ad011.a-ads.com": "",
@@ -276,7 +275,6 @@
             "zec-bitcore1.trezor.io": "INACTIVE"
         },
         "1561073365": {
-            "ad007.a-ads.com": "INACTIVE",
             "ad012.a-ads.com": "INACTIVE",
             "ad014.a-ads.com": "INACTIVE",
             "ad015.a-ads.com": "INACTIVE",
@@ -455,7 +453,6 @@
             "www.shop.simplemining.net": "INACTIVE"
         },
         "1561764989": {
-            "ad007.a-ads.com": "INACTIVE",
             "ad008.a-ads.com": "INACTIVE",
             "ad009.a-ads.com": "INACTIVE",
             "ad203.a-ads.com": "INACTIVE",
@@ -615,7 +612,6 @@
         },
         "1562456384": {
             "ad004.a-ads.com": "INACTIVE",
-            "ad007.a-ads.com": "INACTIVE",
             "ad032.a-ads.com": "INACTIVE",
             "ad226.a-ads.com": "INACTIVE",
             "admin.adconity.com": "INACTIVE",
@@ -658,7 +654,6 @@
         },
         "1562628694": {
             "ad005.a-ads.com": "INACTIVE",
-            "ad007.a-ads.com": "INACTIVE",
             "ad217.a-ads.com": "INACTIVE",
             "ad228.a-ads.com": "INACTIVE",
             "autoconfig.bitcoin-doubler.us": "INACTIVE",
@@ -752,7 +747,6 @@
         },
         "1563147090": {
             "ad004.a-ads.com": "INACTIVE",
-            "ad007.a-ads.com": "INACTIVE",
             "ad009.a-ads.com": "INACTIVE",
             "ad011.a-ads.com": "INACTIVE",
             "ad201.a-ads.com": "INACTIVE",
@@ -953,6 +947,34 @@
             "www.old-wallet.trezor.io": "INACTIVE",
             "www.shop.simplemining.net": "INACTIVE",
             "www.tradewin.online": "INACTIVE"
+        },
+        "1564443406": {
+            "ad007.a-ads.com": "INACTIVE",
+            "ad009.a-ads.com": "INACTIVE",
+            "ad012.a-ads.com": "INACTIVE",
+            "ad013.a-ads.com": "INACTIVE",
+            "ad014.a-ads.com": "INACTIVE",
+            "adc.cryptopia.co.nz": "INACTIVE",
+            "alpha.myetherwallet.com": "INACTIVE",
+            "api1.bithumb.com": "INACTIVE",
+            "autoconfig.bitcoin-doubler.us": "INACTIVE",
+            "chf.a-ads.com": "INACTIVE",
+            "disney.cryptopia.co.nz": "INACTIVE",
+            "ftp.bitcoin-doubler.us": "INACTIVE",
+            "ftp.miningfarmasics.com": "INACTIVE",
+            "getbitcoin.nz": "INACTIVE",
+            "healthbeauty.cryptopia.co.nz": "INACTIVE",
+            "honeypot.cryptopia.co.nz": "INACTIVE",
+            "linfen.cryptopia.co.nz": "INACTIVE",
+            "network.cryptopia.co.nz": "INACTIVE",
+            "parthk.co.uk": "INACTIVE",
+            "pay.bithumb.com": "INACTIVE",
+            "pools2.cryptopia.co.nz": "INACTIVE",
+            "pop3.awesomeminer.com": "INACTIVE",
+            "rc.bithumb.com": "INACTIVE",
+            "s.a-ads.com": "INACTIVE",
+            "www.apps2.cointraffic.io": "INACTIVE",
+            "www.bch-bitcore2.trezor.io": "INACTIVE"
         }
     }
 }
