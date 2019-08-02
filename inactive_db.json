@@ -89,7 +89,6 @@
             "aws.simplemining.net": "",
             "babyalex.coinmama.com": "",
             "basicdemo.emercoin.com": "",
-            "bch-bitcore2.trezor.io": "",
             "beta.bitfinex.com": "",
             "beta.simplemining.net": "",
             "bitcoin-doubler.us": "",
@@ -414,7 +413,6 @@
             "api.inwemo.com": "INACTIVE",
             "apps2.cointraffic.io": "INACTIVE",
             "basicdemo.emercoin.com": "INACTIVE",
-            "bch-bitcore2.trezor.io": "INACTIVE",
             "beta.bitfinex.com": "INACTIVE",
             "beta.simplemining.net": "INACTIVE",
             "cpanel.imperiumminer.com": "INACTIVE",
@@ -505,7 +503,6 @@
             "api.cryptopia.co.nz": "INACTIVE",
             "autoconfig.bitcoin-doubler.us": "INACTIVE",
             "aws.simplemining.net": "INACTIVE",
-            "bch-bitcore2.trezor.io": "INACTIVE",
             "chf.a-ads.com": "INACTIVE",
             "dash-bitcore1.trezor.io": "INACTIVE",
             "development.btcturk.com": "INACTIVE",
@@ -576,7 +573,6 @@
             "api.mycrypto.com": "INACTIVE",
             "apps2.cointraffic.io": "INACTIVE",
             "autoconfig.bitcoin-doubler.us": "INACTIVE",
-            "bch-bitcore2.trezor.io": "INACTIVE",
             "bitcoin-doubler.us": "INACTIVE",
             "btc.a-ads.com": "INACTIVE",
             "chf.a-ads.com": "INACTIVE",
@@ -613,7 +609,6 @@
             "api.cryptopia.co.nz": "INACTIVE",
             "api.mycrypto.com": "INACTIVE",
             "autodiscover.btc-alpha.com": "INACTIVE",
-            "bch-bitcore2.trezor.io": "INACTIVE",
             "bullet.simplemining.net": "INACTIVE",
             "calendar.coinmama.com": "INACTIVE",
             "chat.coinmama.com": "INACTIVE",
@@ -808,7 +803,6 @@
             "api.cryptoguiminer.com": "INACTIVE",
             "api.inwemo.com": "INACTIVE",
             "autoconfig.bitcoin-doubler.us": "INACTIVE",
-            "bch-bitcore2.trezor.io": "INACTIVE",
             "beta.simplemining.net": "INACTIVE",
             "dev.a-ads.com": "INACTIVE",
             "foundry.electrum.org": "INACTIVE",
@@ -862,7 +856,6 @@
             "api.inwemo.com": "INACTIVE",
             "app0.a-ads.com": "INACTIVE",
             "apps.cointraffic.io": "INACTIVE",
-            "bch-bitcore2.trezor.io": "INACTIVE",
             "chf.a-ads.com": "INACTIVE",
             "getbitcoin.nz": "INACTIVE",
             "i2p.emercoin.com": "INACTIVE",
@@ -994,6 +987,17 @@
             "www.dash-bitcore1.trezor.io": "INACTIVE",
             "www.kncminer.com": "INACTIVE",
             "www.parthk.co.uk": "INACTIVE"
+        },
+        "1564789122": {
+            "autoconfig.bitcoin-doubler.us": "INACTIVE",
+            "bch-bitcore2.trezor.io": "INACTIVE",
+            "bitcoin-doubler.us": "INACTIVE",
+            "disney.cryptopia.co.nz": "INACTIVE",
+            "getbitcoin.nz": "INACTIVE",
+            "ltc-bitcore3.trezor.io": "INACTIVE",
+            "tm.btcturk.com": "INACTIVE",
+            "www.dash-bitcore1.trezor.io": "INACTIVE",
+            "www.getbitcoin.nz": "INACTIVE"
         }
     }
 }
