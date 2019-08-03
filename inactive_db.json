@@ -990,13 +990,25 @@
         },
         "1564789122": {
             "autoconfig.bitcoin-doubler.us": "INACTIVE",
-            "bch-bitcore2.trezor.io": "INACTIVE",
             "bitcoin-doubler.us": "INACTIVE",
             "disney.cryptopia.co.nz": "INACTIVE",
             "getbitcoin.nz": "INACTIVE",
             "ltc-bitcore3.trezor.io": "INACTIVE",
             "tm.btcturk.com": "INACTIVE",
             "www.dash-bitcore1.trezor.io": "INACTIVE",
+            "www.getbitcoin.nz": "INACTIVE"
+        },
+        "1564875583": {
+            "ad013.a-ads.com": "INACTIVE"
+        },
+        "1564875584": {
+            "ad216.a-ads.com": "INACTIVE",
+            "autoconfig.bitcoin-doubler.us": "INACTIVE",
+            "bch-bitcore2.trezor.io": "INACTIVE",
+            "bitcoin-doubler.us": "INACTIVE",
+            "getbitcoin.nz": "INACTIVE",
+            "mail.mymonero.com": "INACTIVE",
+            "redmine.emercoin.com": "INACTIVE",
             "www.getbitcoin.nz": "INACTIVE"
         }
     }
