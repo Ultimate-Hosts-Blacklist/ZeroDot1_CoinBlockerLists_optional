@@ -186,7 +186,6 @@
             "webdisk.api.cryptoguiminer.com": "",
             "webmail.awesomeminer.com": "",
             "widget.coinmama.com": "",
-            "wiki.emercoin.com": "",
             "wss1.bithumb.com": "",
             "ww.cryptopia.co.nz": "",
             "www.0x.mycrypto.com": "",
@@ -525,7 +524,6 @@
             "tm.btcturk.com": "INACTIVE",
             "upload.a-ads.com": "INACTIVE",
             "web4.hashgains.com": "INACTIVE",
-            "wiki.emercoin.com": "INACTIVE",
             "www.beta-wallet.trezor.io": "INACTIVE",
             "www.hashcoin.io": "INACTIVE",
             "www.ltc-bitcore3.trezor.io": "INACTIVE",
@@ -866,7 +864,6 @@
             "secure.coinmama.com": "INACTIVE",
             "tm.btcturk.com": "INACTIVE",
             "widget.coinmama.com": "INACTIVE",
-            "wiki.emercoin.com": "INACTIVE",
             "www.bitcoin-doubler.us": "INACTIVE",
             "www.getbitcoin.nz": "INACTIVE",
             "www.hashcoin.io": "INACTIVE",
@@ -928,7 +925,6 @@
             "rpc.myetherwallet.com": "INACTIVE",
             "s.a-ads.com": "INACTIVE",
             "w.cryptopia.co.nz": "INACTIVE",
-            "wiki.emercoin.com": "INACTIVE",
             "www.api.mymonero.com": "INACTIVE",
             "www.apps.cointraffic.io": "INACTIVE",
             "www.getbitcoin.nz": "INACTIVE",
@@ -1010,6 +1006,17 @@
             "mail.mymonero.com": "INACTIVE",
             "redmine.emercoin.com": "INACTIVE",
             "www.getbitcoin.nz": "INACTIVE"
+        },
+        "1564962027": {
+            "alpha.myetherwallet.com": "INACTIVE",
+            "bitcoin-doubler.us": "INACTIVE",
+            "getbitcoin.nz": "INACTIVE",
+            "i2p.emercoin.com": "INACTIVE",
+            "localhost.cryptopia.co.nz": "INACTIVE",
+            "pools.cryptopia.co.nz": "INACTIVE",
+            "wiki.emercoin.com": "INACTIVE",
+            "www.dash-bitcore1.trezor.io": "INACTIVE",
+            "www.kncminer.com": "INACTIVE"
         }
     }
 }
