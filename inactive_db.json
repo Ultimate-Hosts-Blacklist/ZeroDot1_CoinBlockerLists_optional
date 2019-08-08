@@ -788,7 +788,6 @@
             "www.apps.cointraffic.io": "INACTIVE",
             "www.apps2.cointraffic.io": "INACTIVE",
             "www.btc-bitcore1.trezor.io": "INACTIVE",
-            "www.tradewin.online": "INACTIVE",
             "zec-bitcore1.trezor.io": "INACTIVE"
         },
         "1563492631": {
@@ -923,8 +922,7 @@
             "www.apps.cointraffic.io": "INACTIVE",
             "www.getbitcoin.nz": "INACTIVE",
             "www.old-wallet.trezor.io": "INACTIVE",
-            "www.shop.simplemining.net": "INACTIVE",
-            "www.tradewin.online": "INACTIVE"
+            "www.shop.simplemining.net": "INACTIVE"
         },
         "1564443406": {
             "ad007.a-ads.com": "INACTIVE",
@@ -1019,7 +1017,22 @@
             "wss1.bithumb.com": "INACTIVE",
             "www.bitcoin-doubler.us": "INACTIVE",
             "www.getbitcoin.nz": "INACTIVE",
-            "www.kncminer.com": "INACTIVE",
+            "www.kncminer.com": "INACTIVE"
+        },
+        "1565222982": {
+            "admin.coinmama.com": "INACTIVE",
+            "apps.cointraffic.io": "INACTIVE",
+            "autoconfig.bitcoin-doubler.us": "INACTIVE",
+            "bch-bitcore2.trezor.io": "INACTIVE",
+            "bitcoin-doubler.us": "INACTIVE",
+            "bng.btc-alpha.com": "INACTIVE",
+            "games.cryptopia.co.nz": "INACTIVE",
+            "getbitcoin.nz": "INACTIVE",
+            "pay.bithumb.com": "INACTIVE",
+            "pools2.cryptopia.co.nz": "INACTIVE",
+            "www.btc-bitcore1.trezor.io": "INACTIVE",
+            "www.files.cointraffic.io": "INACTIVE",
+            "www.getbitcoin.nz": "INACTIVE",
             "www.tradewin.online": "INACTIVE"
         }
     }
