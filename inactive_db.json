@@ -1065,6 +1065,26 @@
             "www.imperiumminer.com": "INACTIVE",
             "www.tradewin.online": "INACTIVE",
             "zec-bitcore1.trezor.io": "INACTIVE"
+        },
+        "1565740786": {
+            "apps.cointraffic.io": "INACTIVE",
+            "bitcoin-doubler.us": "INACTIVE",
+            "development.btcturk.com": "INACTIVE",
+            "files.btcturk.com": "INACTIVE",
+            "ftp.imperiumminer.com": "INACTIVE",
+            "games.cryptopia.co.nz": "INACTIVE",
+            "getbitcoin.nz": "INACTIVE",
+            "help.cryptopia.co.nz": "INACTIVE",
+            "mail.miningfarmasics.com": "INACTIVE",
+            "mars.cryptopia.co.nz": "INACTIVE",
+            "netvision.cryptopia.co.nz": "INACTIVE",
+            "redmine.emercoin.com": "INACTIVE",
+            "secure.coinmama.com": "INACTIVE",
+            "status.coinmama.com": "INACTIVE",
+            "webmail.imperiumminer.com": "INACTIVE",
+            "www.forminerpro.com": "INACTIVE",
+            "www.getbitcoin.nz": "INACTIVE",
+            "www.shop.trezor.io": "INACTIVE"
         }
     }
 }
