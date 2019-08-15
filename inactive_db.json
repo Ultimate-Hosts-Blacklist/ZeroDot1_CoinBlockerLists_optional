@@ -1085,6 +1085,27 @@
             "www.forminerpro.com": "INACTIVE",
             "www.getbitcoin.nz": "INACTIVE",
             "www.shop.trezor.io": "INACTIVE"
+        },
+        "1565913043": {
+            "ad008.a-ads.com": "INACTIVE",
+            "ad226.a-ads.com": "INACTIVE",
+            "admin.coinmama.com": "INACTIVE",
+            "api.cryptoguiminer.com": "INACTIVE",
+            "cpanel.imperiumminer.com": "INACTIVE",
+            "disney.cryptopia.co.nz": "INACTIVE",
+            "getbitcoin.nz": "INACTIVE",
+            "linfen.cryptopia.co.nz": "INACTIVE",
+            "localhost.quadrigacx.com": "INACTIVE",
+            "ltc.cryptopia.co.nz": "INACTIVE",
+            "mineshaft.cryptopia.co.nz": "INACTIVE",
+            "mta82.hashgains.com": "INACTIVE",
+            "rm.cointraffic.io": "INACTIVE",
+            "ru.cryptopia.co.nz": "INACTIVE",
+            "unauthorized.btcturk.com": "INACTIVE",
+            "ws.bitfinex.com": "INACTIVE",
+            "ww.cryptopia.co.nz": "INACTIVE",
+            "www.bitcoin-doubler.us": "INACTIVE",
+            "www.forminerpro.com": "INACTIVE"
         }
     }
 }
