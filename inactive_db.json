@@ -7,7 +7,6 @@
             "ad015.a-ads.com": "",
             "ad201.a-ads.com": "",
             "ad210.a-ads.com": "",
-            "ad226.a-ads.com": "",
             "adc.cryptopia.co.nz": "",
             "apps.cointraffic.io": "",
             "apps2.cointraffic.io": "",
@@ -69,7 +68,6 @@
             "ad218.a-ads.com": "",
             "ad222.a-ads.com": "",
             "ad225.a-ads.com": "",
-            "ad226.a-ads.com": "",
             "ad228.a-ads.com": "",
             "ad302.a-ads.com": "",
             "adc.cryptopia.co.nz": "",
@@ -231,7 +229,6 @@
             "ad014.a-ads.com": "INACTIVE",
             "ad217.a-ads.com": "INACTIVE",
             "ad224.a-ads.com": "INACTIVE",
-            "ad226.a-ads.com": "INACTIVE",
             "admin.adconity.com": "INACTIVE",
             "api1.bithumb.com": "INACTIVE",
             "api2.bitfinex.com": "INACTIVE",
@@ -316,7 +313,6 @@
             "ad032.a-ads.com": "INACTIVE",
             "ad201.a-ads.com": "INACTIVE",
             "ad225.a-ads.com": "INACTIVE",
-            "ad226.a-ads.com": "INACTIVE",
             "api.cryptopia.co.nz": "INACTIVE",
             "chat.coinmama.com": "INACTIVE",
             "devtopia.cryptopia.co.nz": "INACTIVE",
@@ -403,7 +399,6 @@
             "ad013.a-ads.com": "INACTIVE",
             "ad032.a-ads.com": "INACTIVE",
             "ad210.a-ads.com": "INACTIVE",
-            "ad226.a-ads.com": "INACTIVE",
             "adc.cryptopia.co.nz": "INACTIVE",
             "api.cryptoguiminer.com": "INACTIVE",
             "api.inwemo.com": "INACTIVE",
@@ -534,7 +529,6 @@
         "1562116538": {
             "ad213.a-ads.com": "INACTIVE",
             "ad216.a-ads.com": "INACTIVE",
-            "ad226.a-ads.com": "INACTIVE",
             "ad302.a-ads.com": "INACTIVE",
             "alpha.myetherwallet.com": "INACTIVE",
             "basicdemo.emercoin.com": "INACTIVE",
@@ -598,7 +592,6 @@
         "1562456384": {
             "ad004.a-ads.com": "INACTIVE",
             "ad032.a-ads.com": "INACTIVE",
-            "ad226.a-ads.com": "INACTIVE",
             "admin.adconity.com": "INACTIVE",
             "api.cryptopia.co.nz": "INACTIVE",
             "api.mycrypto.com": "INACTIVE",
@@ -791,7 +784,6 @@
             "ad004.a-ads.com": "INACTIVE",
             "ad013.a-ads.com": "INACTIVE",
             "ad225.a-ads.com": "INACTIVE",
-            "ad226.a-ads.com": "INACTIVE",
             "api.cryptoguiminer.com": "INACTIVE",
             "api.inwemo.com": "INACTIVE",
             "autoconfig.bitcoin-doubler.us": "INACTIVE",
@@ -1088,7 +1080,6 @@
         },
         "1565913043": {
             "ad008.a-ads.com": "INACTIVE",
-            "ad226.a-ads.com": "INACTIVE",
             "admin.coinmama.com": "INACTIVE",
             "api.cryptoguiminer.com": "INACTIVE",
             "cpanel.imperiumminer.com": "INACTIVE",
@@ -1106,6 +1097,22 @@
             "ww.cryptopia.co.nz": "INACTIVE",
             "www.bitcoin-doubler.us": "INACTIVE",
             "www.forminerpro.com": "INACTIVE"
+        },
+        "1566086504": {
+            "mineshaft.cryptopia.co.nz": "INACTIVE"
+        },
+        "1566086505": {
+            "ad.s.a-ads.com": "INACTIVE",
+            "ad226.a-ads.com": "INACTIVE",
+            "api.cryptopia.co.nz": "INACTIVE",
+            "api1.bithumb.com": "INACTIVE",
+            "autoconfig.bitcoin-doubler.us": "INACTIVE",
+            "bitcoin-doubler.us": "INACTIVE",
+            "dev.coinmama.com": "INACTIVE",
+            "forum.bitcoin.org": "INACTIVE",
+            "getbitcoin.nz": "INACTIVE",
+            "management.cryptopia.co.nz": "INACTIVE",
+            "www.apps.cointraffic.io": "INACTIVE"
         }
     }
 }
