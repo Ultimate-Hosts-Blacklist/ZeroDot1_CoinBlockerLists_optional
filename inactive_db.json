@@ -408,7 +408,6 @@
             "cpanel.imperiumminer.com": "INACTIVE",
             "dash-bitcore1.trezor.io": "INACTIVE",
             "doge.cryptopia.co.nz": "INACTIVE",
-            "ftp.bitcoin-doubler.us": "INACTIVE",
             "ftp.miningfarmasics.com": "INACTIVE",
             "jira.cryptopia.co.nz": "INACTIVE",
             "linfen.cryptopia.co.nz": "INACTIVE",
@@ -499,7 +498,6 @@
             "doge.cryptopia.co.nz": "INACTIVE",
             "forum.bitcoin.org": "INACTIVE",
             "ftp.awesomeminer.com": "INACTIVE",
-            "ftp.bitcoin-doubler.us": "INACTIVE",
             "ftp.hashgains.com": "INACTIVE",
             "ftp.imperiumminer.com": "INACTIVE",
             "games.cryptopia.co.nz": "INACTIVE",
@@ -564,7 +562,6 @@
             "btc.a-ads.com": "INACTIVE",
             "dev.coinmama.com": "INACTIVE",
             "foundry.electrum.org": "INACTIVE",
-            "ftp.bitcoin-doubler.us": "INACTIVE",
             "games.cryptopia.co.nz": "INACTIVE",
             "headers.electrum.org": "INACTIVE",
             "i2p.emercoin.com": "INACTIVE",
@@ -695,7 +692,6 @@
             "app0.a-ads.com": "INACTIVE",
             "cpanel.support.hashgains.com": "INACTIVE",
             "files.btcturk.com": "INACTIVE",
-            "ftp.bitcoin-doubler.us": "INACTIVE",
             "games.cryptopia.co.nz": "INACTIVE",
             "imperiumminer.com": "INACTIVE",
             "ltc-bitcore3.trezor.io": "INACTIVE",
@@ -726,7 +722,6 @@
             "api2.bitfinex.com": "INACTIVE",
             "app0.a-ads.com": "INACTIVE",
             "devweb2.cryptopia.co.nz": "INACTIVE",
-            "ftp.bitcoin-doubler.us": "INACTIVE",
             "ftp.quadrigacx.com": "INACTIVE",
             "games.cryptopia.co.nz": "INACTIVE",
             "getbitcoin.nz": "INACTIVE",
@@ -784,7 +779,6 @@
             "beta.simplemining.net": "INACTIVE",
             "dev.a-ads.com": "INACTIVE",
             "foundry.electrum.org": "INACTIVE",
-            "ftp.bitcoin-doubler.us": "INACTIVE",
             "games.cryptopia.co.nz": "INACTIVE",
             "getbitcoin.nz": "INACTIVE",
             "infra2.bithumb.com": "INACTIVE",
@@ -913,7 +907,6 @@
             "api1.bithumb.com": "INACTIVE",
             "autoconfig.bitcoin-doubler.us": "INACTIVE",
             "disney.cryptopia.co.nz": "INACTIVE",
-            "ftp.bitcoin-doubler.us": "INACTIVE",
             "ftp.miningfarmasics.com": "INACTIVE",
             "getbitcoin.nz": "INACTIVE",
             "healthbeauty.cryptopia.co.nz": "INACTIVE",
@@ -988,7 +981,6 @@
         },
         "1565048522": {
             "autoconfig.bitcoin-doubler.us": "INACTIVE",
-            "ftp.bitcoin-doubler.us": "INACTIVE",
             "s.a-ads.com": "INACTIVE",
             "wss1.bithumb.com": "INACTIVE",
             "www.bitcoin-doubler.us": "INACTIVE",
@@ -1017,7 +1009,6 @@
         "1565395196": {
             "ad218.a-ads.com": "INACTIVE",
             "ad224.a-ads.com": "INACTIVE",
-            "ftp.bitcoin-doubler.us": "INACTIVE",
             "getbitcoin.nz": "INACTIVE",
             "jp.simplemining.net": "INACTIVE",
             "lb4.a-ads.com": "INACTIVE",
@@ -1036,7 +1027,6 @@
             "autoconfig.bitcoin-doubler.us": "INACTIVE",
             "bch-bitcore2.trezor.io": "INACTIVE",
             "dev-xhlkashd.coinmama.com": "INACTIVE",
-            "ftp.bitcoin-doubler.us": "INACTIVE",
             "headers.electrum.org": "INACTIVE",
             "parners.cryptopia.co.nz": "INACTIVE",
             "rc.bithumb.com": "INACTIVE",
@@ -1142,6 +1132,14 @@
             "www.event.rockwall.investments": "INACTIVE",
             "www.overflow.mycrypto.com": "INACTIVE",
             "www.rpc.myetherwallet.com": "INACTIVE"
+        },
+        "1566691774": {
+            "event.rockwall.investments": "INACTIVE",
+            "ftp.bitcoin-doubler.us": "INACTIVE",
+            "getbitcoin.nz": "INACTIVE",
+            "stats.ethc.io": "INACTIVE",
+            "webdisk.api.cryptoguiminer.com": "INACTIVE",
+            "www.0x.mycrypto.com": "INACTIVE"
         }
     }
 }
