@@ -105,7 +105,6 @@
             "devtopia.cryptopia.co.nz": "",
             "devweb2.cryptopia.co.nz": "",
             "disney.cryptopia.co.nz": "",
-            "doge.cryptopia.co.nz": "",
             "event.btc-alpha.com": "",
             "files.btcturk.com": "",
             "forum.bitcoin.org": "",
@@ -407,7 +406,6 @@
             "beta.simplemining.net": "INACTIVE",
             "cpanel.imperiumminer.com": "INACTIVE",
             "dash-bitcore1.trezor.io": "INACTIVE",
-            "doge.cryptopia.co.nz": "INACTIVE",
             "ftp.miningfarmasics.com": "INACTIVE",
             "jira.cryptopia.co.nz": "INACTIVE",
             "linfen.cryptopia.co.nz": "INACTIVE",
@@ -495,7 +493,6 @@
             "dash-bitcore1.trezor.io": "INACTIVE",
             "development.btcturk.com": "INACTIVE",
             "devweb2.cryptopia.co.nz": "INACTIVE",
-            "doge.cryptopia.co.nz": "INACTIVE",
             "forum.bitcoin.org": "INACTIVE",
             "ftp.awesomeminer.com": "INACTIVE",
             "ftp.hashgains.com": "INACTIVE",
@@ -1114,7 +1111,6 @@
             "autodiscover.btc-alpha.com": "INACTIVE",
             "aws.simplemining.net": "INACTIVE",
             "beta.simplemining.net": "INACTIVE",
-            "doge.cryptopia.co.nz": "INACTIVE",
             "domainkey.rockwall.investments": "INACTIVE",
             "event.rockwall.investments": "INACTIVE",
             "getbitcoin.nz": "INACTIVE",
@@ -1161,6 +1157,26 @@
             "www.old-wallet.trezor.io": "INACTIVE",
             "www.shop.trezor.io": "INACTIVE",
             "www3.a-ads.com": "INACTIVE"
+        },
+        "1567036667": {
+            "ad011.a-ads.com": "INACTIVE",
+            "ad032.a-ads.com": "INACTIVE",
+            "ad302.a-ads.com": "INACTIVE",
+            "chat.coinmama.com": "INACTIVE",
+            "doge.cryptopia.co.nz": "INACTIVE",
+            "getbitcoin.nz": "INACTIVE",
+            "m.cryptopia.co.nz": "INACTIVE",
+            "mail.mymonero.com": "INACTIVE",
+            "mail.peerhash.com": "INACTIVE",
+            "minneapolis.rockwall.investments": "INACTIVE",
+            "office.cryptopia.co.nz": "INACTIVE",
+            "rpc.myetherwallet.com": "INACTIVE",
+            "web4.hashgains.com": "INACTIVE",
+            "webdisk.api.cryptoguiminer.com": "INACTIVE",
+            "www.0x.mycrypto.com": "INACTIVE",
+            "www.getbitcoin.nz": "INACTIVE",
+            "www.rm.cointraffic.io": "INACTIVE",
+            "www.zec-bitcore1.trezor.io": "INACTIVE"
         }
     }
 }
