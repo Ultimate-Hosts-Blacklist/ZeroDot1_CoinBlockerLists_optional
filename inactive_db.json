@@ -42,7 +42,6 @@
             "www.hashcoin.io": "",
             "www.ico.icerockmining.io": "",
             "www.imperiumminer.com": "",
-            "www.parthk.co.uk": "",
             "www.preorder.trezor.io": "",
             "www.wallet.trezor.io": ""
         },
@@ -205,7 +204,6 @@
             "www.ltc.cryptopia.co.nz": "",
             "www.miningfarmasics.com": "",
             "www.old-wallet.trezor.io": "",
-            "www.parthk.co.uk": "",
             "www.pay.bithumb.com": "",
             "www.preorder.trezor.io": "",
             "www.rm.cointraffic.io": "",
@@ -512,7 +510,6 @@
             "www.beta-wallet.trezor.io": "INACTIVE",
             "www.hashcoin.io": "INACTIVE",
             "www.ltc-bitcore3.trezor.io": "INACTIVE",
-            "www.parthk.co.uk": "INACTIVE",
             "www.rpc.myetherwallet.com": "INACTIVE",
             "www.shop.simplemining.net": "INACTIVE",
             "www.status.trezor.io": "INACTIVE",
@@ -733,7 +730,6 @@
             "widget.coinmama.com": "INACTIVE",
             "www.api.mymonero.com": "INACTIVE",
             "www.blog.trezor.io": "INACTIVE",
-            "www.parthk.co.uk": "INACTIVE",
             "www.shop.simplemining.net": "INACTIVE"
         },
         "1563319675": {
@@ -938,8 +934,7 @@
             "status.coinmama.com": "INACTIVE",
             "ups.cryptopia.co.nz": "INACTIVE",
             "w.cryptopia.co.nz": "INACTIVE",
-            "www.dash-bitcore1.trezor.io": "INACTIVE",
-            "www.parthk.co.uk": "INACTIVE"
+            "www.dash-bitcore1.trezor.io": "INACTIVE"
         },
         "1564789122": {
             "autoconfig.bitcoin-doubler.us": "INACTIVE",
@@ -1177,6 +1172,26 @@
             "www.getbitcoin.nz": "INACTIVE",
             "www.rm.cointraffic.io": "INACTIVE",
             "www.zec-bitcore1.trezor.io": "INACTIVE"
+        },
+        "1567209115": {
+            "ad011.a-ads.com": "INACTIVE",
+            "ad201.a-ads.com": "INACTIVE",
+            "ad224.a-ads.com": "INACTIVE",
+            "ad302.a-ads.com": "INACTIVE",
+            "api2.bitfinex.com": "INACTIVE",
+            "chf.a-ads.com": "INACTIVE",
+            "dash-bitcore1.trezor.io": "INACTIVE",
+            "doge.cryptopia.co.nz": "INACTIVE",
+            "getbitcoin.nz": "INACTIVE",
+            "preprod.simplemining.net": "INACTIVE",
+            "rm.cointraffic.io": "INACTIVE",
+            "webdisk.api.cryptoguiminer.com": "INACTIVE",
+            "webmail.imperiumminer.com": "INACTIVE",
+            "wss1.bithumb.com": "INACTIVE",
+            "www.kncminer.com": "INACTIVE",
+            "www.ltc-bitcore3.trezor.io": "INACTIVE",
+            "www.shop.simplemining.net": "INACTIVE",
+            "www.tradewin.online": "INACTIVE"
         }
     }
 }
