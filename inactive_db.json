@@ -4,7 +4,6 @@
             "ad011.a-ads.com": "",
             "ad013.a-ads.com": "",
             "ad014.a-ads.com": "",
-            "ad015.a-ads.com": "",
             "ad201.a-ads.com": "",
             "ad210.a-ads.com": "",
             "adc.cryptopia.co.nz": "",
@@ -56,7 +55,6 @@
             "ad012.a-ads.com": "",
             "ad013.a-ads.com": "",
             "ad014.a-ads.com": "",
-            "ad015.a-ads.com": "",
             "ad032.a-ads.com": "",
             "ad201.a-ads.com": "",
             "ad203.a-ads.com": "",
@@ -263,7 +261,6 @@
         "1561073365": {
             "ad012.a-ads.com": "INACTIVE",
             "ad014.a-ads.com": "INACTIVE",
-            "ad015.a-ads.com": "INACTIVE",
             "ad210.a-ads.com": "INACTIVE",
             "adc.cryptopia.co.nz": "INACTIVE",
             "api.cryptoguiminer.com": "INACTIVE",
@@ -483,7 +480,6 @@
             "ad004.a-ads.com": "INACTIVE",
             "ad012.a-ads.com": "INACTIVE",
             "ad013.a-ads.com": "INACTIVE",
-            "ad015.a-ads.com": "INACTIVE",
             "alpha.myetherwallet.com": "INACTIVE",
             "api.cryptopia.co.nz": "INACTIVE",
             "autoconfig.bitcoin-doubler.us": "INACTIVE",
@@ -735,7 +731,6 @@
         "1563319675": {
             "ad004.a-ads.com": "INACTIVE",
             "ad012.a-ads.com": "INACTIVE",
-            "ad015.a-ads.com": "INACTIVE",
             "ad210.a-ads.com": "INACTIVE",
             "ad217.a-ads.com": "INACTIVE",
             "ad225.a-ads.com": "INACTIVE",
@@ -786,7 +781,6 @@
         },
         "1563579050": {
             "ad001.a-ads.com": "INACTIVE",
-            "ad015.a-ads.com": "INACTIVE",
             "admin.coinmama.com": "INACTIVE",
             "api.cryptoguiminer.com": "INACTIVE",
             "api.inwemo.com": "INACTIVE",
@@ -1192,6 +1186,21 @@
             "www.ltc-bitcore3.trezor.io": "INACTIVE",
             "www.shop.simplemining.net": "INACTIVE",
             "www.tradewin.online": "INACTIVE"
+        },
+        "1567383092": {
+            "ad001.a-ads.com": "INACTIVE",
+            "ad015.a-ads.com": "INACTIVE",
+            "ad201.a-ads.com": "INACTIVE",
+            "ad213.a-ads.com": "INACTIVE",
+            "autoconfig.bitcoin-doubler.us": "INACTIVE",
+            "dev.a-ads.com": "INACTIVE",
+            "getbitcoin.nz": "INACTIVE",
+            "honeypot.cryptopia.co.nz": "INACTIVE",
+            "pools2.cryptopia.co.nz": "INACTIVE",
+            "rc.bithumb.com": "INACTIVE",
+            "www.getbitcoin.nz": "INACTIVE",
+            "www.imperiumminer.com": "INACTIVE",
+            "www3.a-ads.com": "INACTIVE"
         }
     }
 }
