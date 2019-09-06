@@ -894,7 +894,6 @@
             "honeypot.cryptopia.co.nz": "INACTIVE",
             "linfen.cryptopia.co.nz": "INACTIVE",
             "network.cryptopia.co.nz": "INACTIVE",
-            "parthk.co.uk": "INACTIVE",
             "pay.bithumb.com": "INACTIVE",
             "pools2.cryptopia.co.nz": "INACTIVE",
             "pop3.awesomeminer.com": "INACTIVE",
@@ -1216,6 +1215,27 @@
             "webmail.awesomeminer.com": "INACTIVE",
             "www.bitcoin-doubler.us": "INACTIVE",
             "www.ltc-bitcore3.trezor.io": "INACTIVE"
+        },
+        "1567728601": {
+            "ad012.a-ads.com": "INACTIVE",
+            "apps2.cointraffic.io": "INACTIVE",
+            "autoconfig.bitcoin-doubler.us": "INACTIVE",
+            "autodiscover.btc-alpha.com": "INACTIVE",
+            "bch-bitcore2.trezor.io": "INACTIVE",
+            "btc.a-ads.com": "INACTIVE",
+            "dc.rockwall.investments": "INACTIVE",
+            "dns3.rockwall.investments": "INACTIVE",
+            "getbitcoin.nz": "INACTIVE",
+            "m.cryptopia.co.nz": "INACTIVE",
+            "mail.mymonero.com": "INACTIVE",
+            "nodes1.cryptopia.co.nz": "INACTIVE",
+            "poc.simplemining.net": "INACTIVE",
+            "web5.hashgains.com": "INACTIVE",
+            "ww.cryptopia.co.nz": "INACTIVE",
+            "www.event.rockwall.investments": "INACTIVE"
+        }
+    }
+}vestments": "INACTIVE"
         }
     }
 }
