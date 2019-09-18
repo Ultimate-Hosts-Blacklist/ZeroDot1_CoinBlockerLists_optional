@@ -1,25 +1,25 @@
 {
-    "1568594596.005802": {
-        "domain": "autoconfig.bitcoin-doubler.us",
-        "extension": "us"
-    },
-    "1568594636.632717": {
-        "domain": "bitcoin-doubler.us",
-        "extension": "us"
-    },
-    "1568594636.715747": {
+    "1568765320.132925": {
         "domain": "www.bitcoin-doubler.us",
         "extension": "us"
     },
-    "1568594689.763041": {
-        "domain": "ftp.bitcoin-doubler.us",
-        "extension": "us"
-    },
-    "1568594770.981358": {
+    "1568765320.174707": {
         "domain": "bitcoin-doubler.us",
         "extension": "us"
     },
-    "1568594770.991918": {
+    "1568765378.033034": {
+        "domain": "autoconfig.bitcoin-doubler.us",
+        "extension": "us"
+    },
+    "1568765481.081999": {
+        "domain": "ftp.bitcoin-doubler.us",
+        "extension": "us"
+    },
+    "1568765507.097935": {
+        "domain": "bitcoin-doubler.us",
+        "extension": "us"
+    },
+    "1568765507.117629": {
         "domain": "www.bitcoin-doubler.us",
         "extension": "us"
     }
