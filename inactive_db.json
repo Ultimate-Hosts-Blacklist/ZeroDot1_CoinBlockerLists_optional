@@ -229,7 +229,6 @@
             "www.ltc.cryptopia.co.nz": "INACTIVE",
             "www.miningfarmasics.com": "INACTIVE",
             "www.overflow.mycrypto.com": "INACTIVE",
-            "www.rm.cointraffic.io": "INACTIVE",
             "www.shop.trezor.io": "INACTIVE",
             "www.status.trezor.io": "INACTIVE",
             "www.zec-bitcore1.trezor.io": "INACTIVE"
@@ -350,7 +349,6 @@
             "www.dash-bitcore1.trezor.io": "INACTIVE",
             "www.imperiumminer.com": "INACTIVE",
             "www.ltc-bitcore3.trezor.io": "INACTIVE",
-            "www.rm.cointraffic.io": "INACTIVE",
             "www.rpc.myetherwallet.com": "INACTIVE",
             "www.shop.simplemining.net": "INACTIVE",
             "www3.a-ads.com": "INACTIVE"
@@ -435,7 +433,6 @@
             "www.kncminer.com": "INACTIVE",
             "www.ltc-bitcore3.trezor.io": "INACTIVE",
             "www.old-wallet.trezor.io": "INACTIVE",
-            "www.rm.cointraffic.io": "INACTIVE",
             "www.status.trezor.io": "INACTIVE",
             "www.wiki.trezor.io": "INACTIVE",
             "www1.a-ads.com": "INACTIVE",
@@ -542,7 +539,6 @@
             "www.ltc.cryptopia.co.nz": "INACTIVE",
             "www.old-wallet.trezor.io": "INACTIVE",
             "www.preorder.trezor.io": "INACTIVE",
-            "www.rm.cointraffic.io": "INACTIVE",
             "www.shop.simplemining.net": "INACTIVE"
         },
         "1569975084": {
@@ -668,8 +664,7 @@
             "www.beta-wallet.trezor.io": "INACTIVE",
             "www.bitcore3.trezor.io": "INACTIVE",
             "www.dash-bitcore1.trezor.io": "INACTIVE",
-            "www.event.rockwall.investments": "INACTIVE",
-            "www.rm.cointraffic.io": "INACTIVE"
+            "www.event.rockwall.investments": "INACTIVE"
         },
         "1570519236": {
             "ad.s.a-ads.com": "INACTIVE",
@@ -697,7 +692,6 @@
             "unauthorized.cryptopia.co.nz": "INACTIVE",
             "w.cryptopia.co.nz": "INACTIVE",
             "www.go.coinmama.com": "INACTIVE",
-            "www.rm.cointraffic.io": "INACTIVE",
             "www.shop.trezor.io": "INACTIVE",
             "zec-bitcore1.trezor.io": "INACTIVE"
         },
@@ -709,6 +703,54 @@
         },
         "1570659790": {
             "o2.em.quadrigacx.com": "INACTIVE"
+        },
+        "1570662612": {
+            "api.coinmama.com": "INACTIVE"
+        },
+        "1570662742": {
+            "node.jwallet.network": "INACTIVE"
+        },
+        "1570662873": {
+            "wiki.evergreencoin.org": "INACTIVE"
+        },
+        "1570663136": {
+            "dns3.rockwall.investments": "INACTIVE",
+            "event.rockwall.investments": "INACTIVE"
+        },
+        "1570663137": {
+            "admin.adconity.com": "INACTIVE",
+            "web5.hashgains.com": "INACTIVE",
+            "www.imperiumminer.com": "INACTIVE"
+        },
+        "1570663138": {
+            "ad005.a-ads.com": "INACTIVE",
+            "api1.bithumb.com": "INACTIVE",
+            "bullet.simplemining.net": "INACTIVE",
+            "ups.cryptopia.co.nz": "INACTIVE"
+        },
+        "1570663139": {
+            "mx.peerhash.com": "INACTIVE",
+            "pay.bithumb.com": "INACTIVE"
+        },
+        "1570663140": {
+            "ad210.a-ads.com": "INACTIVE",
+            "widget.coinmama.com": "INACTIVE"
+        },
+        "1570663141": {
+            "ad228.a-ads.com": "INACTIVE",
+            "cdn1.cryptopia.co.nz": "INACTIVE",
+            "localhost.cryptopia.co.nz": "INACTIVE",
+            "pay.bithumb.com": "INACTIVE"
+        },
+        "1570663149": {
+            "domainkey.rockwall.investments": "INACTIVE",
+            "pop3.awesomeminer.com": "INACTIVE",
+            "wss1.bithumb.com": "INACTIVE",
+            "www.getbitcoin.nz": "INACTIVE"
+        },
+        "1570663151": {
+            "getbitcoin.nz": "INACTIVE",
+            "www.rm.cointraffic.io": "INACTIVE"
         }
     }
 }
