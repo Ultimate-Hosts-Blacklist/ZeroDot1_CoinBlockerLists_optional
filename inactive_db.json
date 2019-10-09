@@ -700,6 +700,15 @@
             "www.rm.cointraffic.io": "INACTIVE",
             "www.shop.trezor.io": "INACTIVE",
             "zec-bitcore1.trezor.io": "INACTIVE"
+        },
+        "1570659397": {
+            "o3.em.quadrigacx.com": "INACTIVE"
+        },
+        "1570659528": {
+            "o1.em.quadrigacx.com": "INACTIVE"
+        },
+        "1570659790": {
+            "o2.em.quadrigacx.com": "INACTIVE"
         }
     }
 }
