@@ -152,7 +152,6 @@
             "management.cryptopia.co.nz": "INACTIVE",
             "mineshaft.cryptopia.co.nz": "INACTIVE",
             "mineshaft1.cryptopia.co.nz": "INACTIVE",
-            "mx.peerhash.com": "INACTIVE",
             "n1.cryptopia.co.nz": "INACTIVE",
             "network.cryptopia.co.nz": "INACTIVE",
             "nodes1.cryptopia.co.nz": "INACTIVE",
@@ -266,7 +265,6 @@
             "lt.cryptopia.co.nz": "INACTIVE",
             "ltc.cryptopia.co.nz": "INACTIVE",
             "mta82.hashgains.com": "INACTIVE",
-            "mx.peerhash.com": "INACTIVE",
             "netvision.cryptopia.co.nz": "INACTIVE",
             "network.cryptopia.co.nz": "INACTIVE",
             "ns2.a-ads.com": "INACTIVE",
@@ -728,7 +726,6 @@
             "ups.cryptopia.co.nz": "INACTIVE"
         },
         "1570663139": {
-            "mx.peerhash.com": "INACTIVE",
             "pay.bithumb.com": "INACTIVE"
         },
         "1570663140": {
@@ -818,8 +815,7 @@
             "status.coinmama.com": "INACTIVE"
         },
         "1570717005": {
-            "ad216.a-ads.com": "INACTIVE",
-            "mx.peerhash.com": "INACTIVE"
+            "ad216.a-ads.com": "INACTIVE"
         },
         "1570717006": {
             "ad201.a-ads.com": "INACTIVE",
@@ -924,6 +920,31 @@
         },
         "1570803789": {
             "esbc.bithumb.com": "INACTIVE"
+        },
+        "1570807387": {
+            "parners.cryptopia.co.nz": "INACTIVE"
+        },
+        "1570807518": {
+            "wiki.evergreencoin.org": "INACTIVE"
+        },
+        "1570807519": {
+            "mike.cryptopia.co.nz": "INACTIVE",
+            "mineshaft.cryptopia.co.nz": "INACTIVE",
+            "o1.coinmama.com": "INACTIVE",
+            "upload.a-ads.com": "INACTIVE"
+        },
+        "1570807649": {
+            "www.psychomining.de": "INACTIVE"
+        },
+        "1570807650": {
+            "cpanel.antminer-store.com": "INACTIVE"
+        },
+        "1570807780": {
+            "o4.em.quadrigacx.com": "INACTIVE"
+        },
+        "1570807912": {
+            "mx.peerhash.com": "INACTIVE",
+            "realtime.quadrigacx.com": "INACTIVE"
         }
     }
 }
