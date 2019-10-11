@@ -715,6 +715,9 @@
         },
         "1570663137": {
             "admin.adconity.com": "INACTIVE",
+            "api1.bithumb.com": "INACTIVE",
+            "bullet.simplemining.net": "INACTIVE",
+            "ups.cryptopia.co.nz": "INACTIVE",
             "web5.hashgains.com": "INACTIVE",
             "www.imperiumminer.com": "INACTIVE"
         },
@@ -750,9 +753,6 @@
         },
         "1570706726": {
             "o4.em.quadrigacx.com": "INACTIVE"
-        },
-        "1570706859": {
-            "esbc.bithumb.com": "INACTIVE"
         },
         "1570707121": {
             "stream.binance.com": "INACTIVE"
@@ -882,6 +882,48 @@
         },
         "1570798889": {
             "ems01.bithumb.com": "INACTIVE"
+        },
+        "1570803105": {
+            "mta82.a.hashgains.com": "INACTIVE"
+        },
+        "1570803169": {
+            "waiting.bithumb.com": "INACTIVE"
+        },
+        "1570803301": {
+            "psychomining.de": "INACTIVE"
+        },
+        "1570803302": {
+            "ad012.a-ads.com": "INACTIVE",
+            "ups.cryptopia.co.nz": "INACTIVE",
+            "web3.hashgains.com": "INACTIVE"
+        },
+        "1570803395": {
+            "iota.bitfinex.com": "INACTIVE",
+            "nostalgia.bitfinex.com": "INACTIVE"
+        },
+        "1570803524": {
+            "o1.em.quadrigacx.com": "INACTIVE"
+        },
+        "1570803525": {
+            "headers.electrum.org": "INACTIVE",
+            "pools1.cryptopia.co.nz": "INACTIVE"
+        },
+        "1570803656": {
+            "ad032.a-ads.com": "INACTIVE",
+            "mars.cryptopia.co.nz": "INACTIVE",
+            "ns2.a-ads.com": "INACTIVE",
+            "psychomining.de": "INACTIVE"
+        },
+        "1570803657": {
+            "ad218.a-ads.com": "INACTIVE",
+            "dev.a-ads.com": "INACTIVE",
+            "www.bch-bitcore2.trezor.io": "INACTIVE"
+        },
+        "1570803658": {
+            "ad013.a-ads.com": "INACTIVE"
+        },
+        "1570803789": {
+            "esbc.bithumb.com": "INACTIVE"
         }
     }
 }
