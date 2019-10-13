@@ -864,9 +864,6 @@
         "1570793684": {
             "certification.bithumb.com": "INACTIVE"
         },
-        "1570798361": {
-            "helpdesk.bitfinex.com": "INACTIVE"
-        },
         "1570798492": {
             "stream.binance.com": "INACTIVE"
         },
@@ -978,6 +975,21 @@
         },
         "1570929033": {
             "mta89.a.hashgains.com": "INACTIVE"
+        },
+        "1570932060": {
+            "stream.binance.com": "INACTIVE"
+        },
+        "1570932191": {
+            "o6.em.quadrigacx.com": "INACTIVE"
+        },
+        "1570932322": {
+            "ems03.bithumb.com": "INACTIVE"
+        },
+        "1570932323": {
+            "go.coinmama.c:": "INVALID"
+        },
+        "1570932585": {
+            "helpdesk.bitfinex.com": "INACTIVE"
         }
     }
 }
