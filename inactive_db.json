@@ -15,7 +15,6 @@
             "files.btcturk.com": "INACTIVE",
             "ftp.adconity.com": "INACTIVE",
             "i2p.emercoin.com": "INACTIVE",
-            "psychomining.de": "INACTIVE",
             "status.coinmama.com": "INACTIVE",
             "unauthorized.btcturk.com": "INACTIVE",
             "ws.bitfinex.com": "INACTIVE"
@@ -137,6 +136,40 @@
         },
         "1571109307": {
             "helpdesk.bitfinex.com": "INACTIVE"
+        },
+        "1571112731": {
+            "ad203.a-ads.com": "INACTIVE",
+            "cdn2.inwemo.com": "INACTIVE",
+            "healthbeauty.cryptopia.co.nz": "INACTIVE",
+            "netvision.cryptopia.co.nz": "INACTIVE",
+            "pools.cryptopia.co.nz": "INACTIVE",
+            "widget.coinmama.com": "INACTIVE"
+        },
+        "1571112734": {
+            "ftp.awesomeminer.com": "INACTIVE",
+            "mta85.a.hashgains.com": "INACTIVE"
+        },
+        "1571112866": {
+            "dns3.rockwall.investments": "INACTIVE"
+        },
+        "1571112996": {
+            "www.wallet.trezor.io": "INACTIVE"
+        },
+        "1571113089": {
+            "app0.a-ads.com": "INACTIVE",
+            "n1.cryptopia.co.nz": "INACTIVE",
+            "test.rockwall.investments": "INACTIVE"
+        },
+        "1571113090": {
+            "chat.coinmama.com": "INACTIVE"
+        },
+        "1571113221": {
+            "ftp.hashgains.com": "INACTIVE",
+            "o6.em.quadrigacx.com": "INACTIVE",
+            "unauthorized.btcturk.com": "INACTIVE"
+        },
+        "1571113352": {
+            "psychomining.de": "INACTIVE"
         }
     }
 }
