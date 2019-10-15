@@ -4,7 +4,6 @@
             "cdn1.cryptopia.co.nz": "INACTIVE"
         },
         "1570938337": {
-            "autodiscover.btc-alpha.com": "INACTIVE",
             "chf.a-ads.com": "INACTIVE",
             "infra2.bithumb.com": "INACTIVE",
             "investor.cryptopia.co.nz": "INACTIVE",
@@ -261,6 +260,22 @@
         },
         "1571144580": {
             "ems04.bithumb.com": "INACTIVE"
+        },
+        "1571149969": {
+            "localhost.quadrigacx.com": "INACTIVE",
+            "pport.cryptopia.co.nz": "INACTIVE",
+            "web3.hashgains.com": "INACTIVE"
+        },
+        "1571150100": {
+            "beta.simplemining.net": "INACTIVE",
+            "doge.cryptopia.co.nz": "INACTIVE",
+            "stream2.binance.com": "INACTIVE",
+            "www.old-wallet.trezor.io": "INACTIVE"
+        },
+        "1571150231": {
+            "autodiscover.btc-alpha.com": "INACTIVE",
+            "helpdesk2.bitfinex.com": "INACTIVE",
+            "pools2.cryptopia.co.nz": "INACTIVE"
         }
     }
 }
