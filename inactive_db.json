@@ -91,6 +91,52 @@
         },
         "1571105828": {
             "ems01.bithumb.com": "INACTIVE"
+        },
+        "1571108648": {
+            "ltc.cryptopia.co.nz": "INACTIVE",
+            "nodes1.cryptopia.co.nz": "INACTIVE",
+            "ru.cryptopia.co.nz": "INACTIVE"
+        },
+        "1571108778": {
+            "rt.quadrigacx.com": "INACTIVE"
+        },
+        "1571108779": {
+            "devweb2.cryptopia.co.nz": "INACTIVE",
+            "localhost.cryptopia.co.nz": "INACTIVE"
+        },
+        "1571108780": {
+            "pg-relay.bithumb.com": "INACTIVE"
+        },
+        "1571108781": {
+            "ad009.a-ads.com": "INACTIVE",
+            "ad217.a-ads.com": "INACTIVE",
+            "dash-bitcore1.trezor.io": "INACTIVE",
+            "jira.cryptopia.co.nz": "INACTIVE"
+        },
+        "1571108912": {
+            "ad210.a-ads.com": "INACTIVE",
+            "beta.bitfinex.com": "INACTIVE",
+            "node.jwallet.network": "INACTIVE"
+        },
+        "1571109045": {
+            "dev.a-ads.com": "INACTIVE",
+            "dev.coinmama.com": "INACTIVE",
+            "ems06.bithumb.com": "INACTIVE",
+            "mta82.hashgains.com": "INACTIVE",
+            "www.ltc-bitcore3.trezor.io": "INACTIVE"
+        },
+        "1571109046": {
+            "api.mycrypto.com": "INACTIVE",
+            "old.coinad.com": "INACTIVE",
+            "www.tradewin.online": "INACTIVE"
+        },
+        "1571109176": {
+            "esbc.bithumb.com": "INACTIVE",
+            "www.beta-wallet.trezor.io": "INACTIVE",
+            "www.shop.trezor.io": "INACTIVE"
+        },
+        "1571109307": {
+            "helpdesk.bitfinex.com": "INACTIVE"
         }
     }
 }
