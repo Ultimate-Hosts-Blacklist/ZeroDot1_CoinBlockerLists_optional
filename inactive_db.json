@@ -186,9 +186,6 @@
             "ad222.a-ads.com": "INACTIVE",
             "iota.bitfinex.com": "INACTIVE"
         },
-        "1571138374": {
-            "psychomining.de": "INACTIVE"
-        },
         "1571143910": {
             "ww.cryptopia.co.nz": "INACTIVE"
         },
@@ -317,6 +314,39 @@
         },
         "1571226164": {
             "getbitcoin.nz": "INACTIVE"
+        },
+        "1571231507": {
+            "www.preorder.trezor.io": "INACTIVE"
+        },
+        "1571231637": {
+            "o4.em.quadrigacx.com": "INACTIVE"
+        },
+        "1571231639": {
+            "parners.cryptopia.co.nz": "INACTIVE",
+            "pools1.cryptopia.co.nz": "INACTIVE",
+            "www.miningfarmasics.com": "INACTIVE"
+        },
+        "1571231640": {
+            "basicdemo.emercoin.com": "INACTIVE"
+        },
+        "1571231771": {
+            "ad004.a-ads.com": "INACTIVE"
+        },
+        "1571231774": {
+            "mta91.a.hashgains.com": "INACTIVE"
+        },
+        "1571231906": {
+            "api.inwemo.com": "INACTIVE",
+            "btc-smtp.bithumb.com": "INACTIVE",
+            "poc.simplemining.net": "INACTIVE",
+            "prelive.cryptopia.co.nz": "INACTIVE",
+            "wss1.bithumb.com": "INACTIVE"
+        },
+        "1571232037": {
+            "ems04.bithumb.com": "INACTIVE"
+        },
+        "1571232168": {
+            "psychomining.de": "INACTIVE"
         }
     }
 }
