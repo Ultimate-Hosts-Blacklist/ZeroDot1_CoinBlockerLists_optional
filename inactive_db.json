@@ -276,6 +276,47 @@
             "autodiscover.btc-alpha.com": "INACTIVE",
             "helpdesk2.bitfinex.com": "INACTIVE",
             "pools2.cryptopia.co.nz": "INACTIVE"
+        },
+        "1571225603": {
+            "dc.rockwall.investments": "INACTIVE",
+            "mta87.a.hashgains.com": "INACTIVE"
+        },
+        "1571225604": {
+            "imperiumminer.com": "INACTIVE"
+        },
+        "1571225607": {
+            "ad225.a-ads.com": "INACTIVE",
+            "event.btc-alpha.com": "INACTIVE",
+            "www.connect.trezor.io": "INACTIVE"
+        },
+        "1571225738": {
+            "ems03.bithumb.com": "INACTIVE"
+        },
+        "1571225740": {
+            "mike.rockwall.investments": "INACTIVE",
+            "nostalgia.bitfinex.com": "INACTIVE"
+        },
+        "1571225871": {
+            "event.rockwall.investments": "INACTIVE",
+            "stream2.binance.com": "INACTIVE",
+            "www.event.rockwall.investments": "INACTIVE",
+            "www.rpc.myetherwallet.com": "INACTIVE"
+        },
+        "1571225876": {
+            "mta89.a.hashgains.com": "INACTIVE"
+        },
+        "1571226029": {
+            "ad011.a-ads.com": "INACTIVE",
+            "stream.binance.com": "INACTIVE"
+        },
+        "1571226032": {
+            "cpanel.antminer-store.com": "INACTIVE"
+        },
+        "1571226162": {
+            "stream.binance.com": "INACTIVE"
+        },
+        "1571226164": {
+            "getbitcoin.nz": "INACTIVE"
         }
     }
 }
