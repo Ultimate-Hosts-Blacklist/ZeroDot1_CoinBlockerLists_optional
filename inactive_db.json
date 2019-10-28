@@ -279,7 +279,6 @@
         "1571531406": {
             "ad212.a-ads.com": "INACTIVE",
             "admin.coinmama.com": "INACTIVE",
-            "getbitcoin.nz": "INACTIVE",
             "mike.cryptopia.co.nz": "INACTIVE"
         },
         "1571531407": {
@@ -738,6 +737,99 @@
         },
         "1572049881": {
             "mta82.a.hashgains.com": "INACTIVE"
+        },
+        "1572224117": {
+            "linfen.cryptopia.co.nz": "INACTIVE",
+            "preprod.simplemining.net": "INACTIVE"
+        },
+        "1572224128": {
+            "ad218.a-ads.com": "INACTIVE",
+            "www.kncminer.com": "INACTIVE"
+        },
+        "1572224138": {
+            "rpc.myetherwallet.com": "INACTIVE"
+        },
+        "1572224143": {
+            "apps.cointraffic.io": "INACTIVE",
+            "stream.binance.com": "INACTIVE"
+        },
+        "1572224148": {
+            "chat.coinmama.com": "INACTIVE"
+        },
+        "1572224157": {
+            "poc.simplemining.net": "INACTIVE"
+        },
+        "1572224162": {
+            "www.coinadnet.com": "INACTIVE"
+        },
+        "1572224188": {
+            "pools1.cryptopia.co.nz": "INACTIVE",
+            "www.imperiumminer.com": "INACTIVE"
+        },
+        "1572224194": {
+            "api.coinmama.com": "INACTIVE"
+        },
+        "1572224202": {
+            "api2.bitfinex.com": "INACTIVE",
+            "psychomining.de": "INACTIVE"
+        },
+        "1572224203": {
+            "ww.cryptopia.co.nz": "INACTIVE"
+        },
+        "1572224217": {
+            "btc.a-ads.com": "INACTIVE",
+            "mta90.a.hashgains.com": "INACTIVE"
+        },
+        "1572224222": {
+            "emstrk.bithumb.com": "INACTIVE"
+        },
+        "1572224223": {
+            "next.btc-alpha.com": "INACTIVE",
+            "www.shop.simplemining.net": "INACTIVE"
+        },
+        "1572224237": {
+            "api.inwemo.com": "INACTIVE",
+            "mta86.a.hashgains.com": "INACTIVE",
+            "www.wiki.trezor.io": "INACTIVE"
+        },
+        "1572224242": {
+            "psychomining.de": "INACTIVE"
+        },
+        "1572224243": {
+            "ad224.a-ads.com": "INACTIVE",
+            "dev.a-ads.com": "INACTIVE"
+        },
+        "1572224257": {
+            "lt.cryptopia.co.nz": "INACTIVE",
+            "mta89.a.hashgains.com": "INACTIVE",
+            "status.coinmama.com": "INACTIVE",
+            "wss1.bithumb.com": "INACTIVE"
+        },
+        "1572224271": {
+            "mta82.a.hashgains.com": "INACTIVE"
+        },
+        "1572224272": {
+            "cdn2.inwemo.com": "INACTIVE"
+        },
+        "1572224286": {
+            "mta87.a.hashgains.com": "INACTIVE",
+            "ru.cryptopia.co.nz": "INACTIVE"
+        },
+        "1572224301": {
+            "mta91.a.hashgains.com": "INACTIVE",
+            "tm.btcturk.com": "INACTIVE"
+        },
+        "1572224315": {
+            "mta85.a.hashgains.com": "INACTIVE"
+        },
+        "1572224316": {
+            "my.cur.lv": "INACTIVE"
+        },
+        "1572224321": {
+            "o5.em.quadrigacx.com": "INACTIVE"
+        },
+        "1572224323": {
+            "getbitcoin.nz": "INACTIVE"
         }
     }
 }
