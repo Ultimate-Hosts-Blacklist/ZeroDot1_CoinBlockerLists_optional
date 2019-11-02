@@ -123,9 +123,6 @@
             "mta84.a.hashgains.com": "INACTIVE",
             "www.preorder.trezor.io": "INACTIVE"
         },
-        "1571359151": {
-            "esbc.bithumb.com": "INACTIVE"
-        },
         "1571359152": {
             "www.bitcore1.trezor.io": "INACTIVE"
         },
@@ -687,7 +684,6 @@
             "www.bitcore1.trezor.io": "INACTIVE"
         },
         "1572049792": {
-            "esbc.bithumb.com": "INACTIVE",
             "ftp.hashgains.com": "INACTIVE",
             "www.wiki.trezor.io": "INACTIVE"
         },
@@ -1112,6 +1108,81 @@
         },
         "1572520540": {
             "o3.em.quadrigacx.com": "INACTIVE"
+        },
+        "1572657214": {
+            "seed.emercoin.com": "INACTIVE"
+        },
+        "1572657218": {
+            "office.cryptopia.co.nz": "INACTIVE"
+        },
+        "1572657230": {
+            "psychomining.de": "INACTIVE"
+        },
+        "1572657235": {
+            "stream.binance.com": "INACTIVE"
+        },
+        "1572657242": {
+            "www.peerhash.com": "INACTIVE"
+        },
+        "1572657255": {
+            "www.kncminer.com": "INACTIVE"
+        },
+        "1572657257": {
+            "ftp.quadrigacx.com": "INACTIVE",
+            "link.cur.lv": "INACTIVE"
+        },
+        "1572657260": {
+            "mta82.a.hashgains.com": "INACTIVE"
+        },
+        "1572657261": {
+            "www.rm.cointraffic.io": "INACTIVE"
+        },
+        "1572657266": {
+            "wiki.evergreencoin.org": "INACTIVE"
+        },
+        "1572657273": {
+            "api.coinmama.com": "INACTIVE",
+            "certification.bithumb.com": "INACTIVE",
+            "wiki.emercoin.com": "INACTIVE",
+            "www.wallet.trezor.io": "INACTIVE"
+        },
+        "1572657285": {
+            "waiting.bithumb.com": "INACTIVE"
+        },
+        "1572657305": {
+            "tradewin.online": "INACTIVE"
+        },
+        "1572657312": {
+            "ems02.bithumb.com": "INACTIVE",
+            "saml.cryptopia.co.nz": "INACTIVE"
+        },
+        "1572657318": {
+            "stream.binance.com": "INACTIVE"
+        },
+        "1572657326": {
+            "ad228.a-ads.com": "INACTIVE",
+            "nodes1.cryptopia.co.nz": "INACTIVE",
+            "www.getbitcoin.nz": "INACTIVE"
+        },
+        "1572657327": {
+            "calendar.coinmama.com": "INACTIVE",
+            "parners.cryptopia.co.nz": "INACTIVE"
+        },
+        "1572657332": {
+            "return.bithumb.com": "INACTIVE"
+        },
+        "1572657340": {
+            "getbitcoin.nz": "INACTIVE",
+            "mike.rockwall.investments": "INACTIVE"
+        },
+        "1572657346": {
+            "o6.em.quadrigacx.com": "INACTIVE"
+        },
+        "1572657347": {
+            "lb4.a-ads.com": "INACTIVE"
+        },
+        "1572657352": {
+            "esbc.bithumb.com": "INACTIVE"
         }
     }
 }
