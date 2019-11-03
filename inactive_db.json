@@ -261,9 +261,6 @@
             "tm.btcturk.com": "INACTIVE",
             "www.cur.lv": "INACTIVE"
         },
-        "1571434080": {
-            "o5.em.quadrigacx.com": "INACTIVE"
-        },
         "1571531395": {
             "ad222.a-ads.com": "INACTIVE"
         },
@@ -357,9 +354,6 @@
         "1571531493": {
             "redmine.emercoin.com": "INACTIVE",
             "www.alpha.myetherwallet.com": "INACTIVE"
-        },
-        "1571531498": {
-            "o5.em.quadrigacx.com": "INACTIVE"
         },
         "1571531499": {
             "ad216.a-ads.com": "INACTIVE",
@@ -514,7 +508,6 @@
             "www.ltc.cryptopia.co.nz": "INACTIVE"
         },
         "1571696715": {
-            "o5.em.quadrigacx.com": "INACTIVE",
             "www.beta-wallet.trezor.io": "INACTIVE"
         },
         "1571696716": {
@@ -625,9 +618,6 @@
             "mta87.a.hashgains.com": "INACTIVE",
             "zec-bitcore1.trezor.io": "INACTIVE"
         },
-        "1571742946": {
-            "o5.em.quadrigacx.com": "INACTIVE"
-        },
         "1571742947": {
             "alpha.myetherwallet.com": "INACTIVE",
             "pools2.cryptopia.co.nz": "INACTIVE",
@@ -715,7 +705,6 @@
         "1572049838": {
             "i2p.emercoin.com": "INACTIVE",
             "m.cryptopia.co.nz": "INACTIVE",
-            "o5.em.quadrigacx.com": "INACTIVE",
             "www.wallet.trezor.io": "INACTIVE"
         },
         "1572049839": {
@@ -817,9 +806,6 @@
         },
         "1572224316": {
             "my.cur.lv": "INACTIVE"
-        },
-        "1572224321": {
-            "o5.em.quadrigacx.com": "INACTIVE"
         },
         "1572224323": {
             "getbitcoin.nz": "INACTIVE"
@@ -1183,6 +1169,92 @@
         },
         "1572657352": {
             "esbc.bithumb.com": "INACTIVE"
+        },
+        "1572776425": {
+            "ad213.a-ads.com": "INACTIVE"
+        },
+        "1572776432": {
+            "psychomining.de": "INACTIVE"
+        },
+        "1572776433": {
+            "www.803mine.com": "INACTIVE"
+        },
+        "1572776451": {
+            "stream.binance.com": "INACTIVE"
+        },
+        "1572776464": {
+            "stream2.binance.com": "INACTIVE"
+        },
+        "1572776481": {
+            "test.rockwall.investments": "INACTIVE"
+        },
+        "1572776495": {
+            "apps2.cointraffic.io": "INACTIVE"
+        },
+        "1572776502": {
+            "ad226.a-ads.com": "INACTIVE"
+        },
+        "1572776507": {
+            "btc-smtp.bithumb.com": "INACTIVE",
+            "io.rockwall.investments": "INACTIVE"
+        },
+        "1572776517": {
+            "www.getbitcoin.nz": "INACTIVE"
+        },
+        "1572776518": {
+            "www.beta-wallet.trezor.io": "INACTIVE"
+        },
+        "1572776523": {
+            "ad001.a-ads.com": "INACTIVE",
+            "o2.em.quadrigacx.com": "INACTIVE",
+            "ww.cryptopia.co.nz": "INACTIVE"
+        },
+        "1572776524": {
+            "event.btc-alpha.com": "INACTIVE",
+            "me.cur.lv": "INACTIVE"
+        },
+        "1572776529": {
+            "certification.bithumb.com": "INACTIVE"
+        },
+        "1572776535": {
+            "stream.binance.com": "INACTIVE"
+        },
+        "1572776540": {
+            "mineshaft1.cryptopia.co.nz": "INACTIVE",
+            "wiki.evergreencoin.org": "INACTIVE"
+        },
+        "1572776541": {
+            "ftp.awesomeminer.com": "INACTIVE"
+        },
+        "1572776546": {
+            "ad032.a-ads.com": "INACTIVE",
+            "stream2.binance.com": "INACTIVE"
+        },
+        "1572776547": {
+            "pport.cryptopia.co.nz": "INACTIVE",
+            "unauthorized.cryptopia.co.nz": "INACTIVE",
+            "www.shop.trezor.io": "INACTIVE"
+        },
+        "1572776552": {
+            "btc.a-ads.com": "INACTIVE",
+            "o4.em.quadrigacx.com": "INACTIVE"
+        },
+        "1572776558": {
+            "helpdesk2.bitfinex.com": "INACTIVE"
+        },
+        "1572776559": {
+            "ws.quadrigacx.com": "INACTIVE"
+        },
+        "1572776564": {
+            "emstrk.bithumb.com": "INACTIVE",
+            "web3.hashgains.com": "INACTIVE",
+            "www1.bithumb.com": "INACTIVE"
+        },
+        "1572776570": {
+            "bch-bitcore2.trezor.io": "INACTIVE"
+        },
+        "1572776575": {
+            "o5.em.quadrigacx.com": "INACTIVE"
         }
     }
 }
