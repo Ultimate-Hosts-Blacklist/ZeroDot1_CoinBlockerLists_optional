@@ -1135,9 +1135,6 @@
         "1572657285": {
             "waiting.bithumb.com": "INACTIVE"
         },
-        "1572657305": {
-            "tradewin.online": "INACTIVE"
-        },
         "1572657312": {
             "ems02.bithumb.com": "INACTIVE",
             "saml.cryptopia.co.nz": "INACTIVE"
@@ -1255,6 +1252,110 @@
         },
         "1572776575": {
             "o5.em.quadrigacx.com": "INACTIVE"
+        },
+        "1572866108": {
+            "minneapolis.rockwall.investments": "INACTIVE"
+        },
+        "1572866109": {
+            "www.kncminer.com": "INACTIVE"
+        },
+        "1572866110": {
+            "www.pay.bithumb.com": "INACTIVE"
+        },
+        "1572866117": {
+            "psychomining.de": "INACTIVE"
+        },
+        "1572866123": {
+            "stream.binance.com": "INACTIVE"
+        },
+        "1572866132": {
+            "w.cryptopia.co.nz": "INACTIVE"
+        },
+        "1572866135": {
+            "test.ledgerwallet.com": "INACTIVE"
+        },
+        "1572866137": {
+            "dc.rockwall.investments": "INACTIVE"
+        },
+        "1572866138": {
+            "miningfarmasics.com": "INACTIVE"
+        },
+        "1572866141": {
+            "www.803mine.com": "INACTIVE"
+        },
+        "1572866143": {
+            "prelive.cryptopia.co.nz": "INACTIVE"
+        },
+        "1572866149": {
+            "stream2.binance.com": "INACTIVE"
+        },
+        "1572866150": {
+            "devtopia.cryptopia.co.nz": "INACTIVE"
+        },
+        "1572866164": {
+            "getbitcoin.nz": "INACTIVE"
+        },
+        "1572866165": {
+            "test.rockwall.investments": "INACTIVE",
+            "www.miningfarmasics.com": "INACTIVE"
+        },
+        "1572866170": {
+            "node.jwallet.network": "INACTIVE"
+        },
+        "1572866171": {
+            "www.event.rockwall.investments": "INACTIVE"
+        },
+        "1572866176": {
+            "ems01.bithumb.com": "INACTIVE"
+        },
+        "1572866182": {
+            "psychomining.de": "INACTIVE"
+        },
+        "1572866183": {
+            "imperiumminer.com": "INACTIVE"
+        },
+        "1572866188": {
+            "ad302.a-ads.com": "INACTIVE",
+            "helpdesk2.bitfinex.com": "INACTIVE"
+        },
+        "1572866189": {
+            "www.zec-bitcore1.trezor.io": "INACTIVE"
+        },
+        "1572866194": {
+            "web2.hashgains.com": "INACTIVE"
+        },
+        "1572866195": {
+            "dash-bitcore1.trezor.io": "INACTIVE"
+        },
+        "1572866199": {
+            "o2.em.quadrigacx.com": "INACTIVE"
+        },
+        "1572866200": {
+            "netvision.cryptopia.co.nz": "INACTIVE"
+        },
+        "1572866205": {
+            "o4.em.quadrigacx.com": "INACTIVE"
+        },
+        "1572866211": {
+            "ltc-bitcore3.trezor.io": "INACTIVE",
+            "web6.hashgains.com": "INACTIVE",
+            "www.connect.trezor.io": "INACTIVE"
+        },
+        "1572866212": {
+            "apps.cointraffic.io": "INACTIVE",
+            "web5.hashgains.com": "INACTIVE",
+            "www1.bithumb.com": "INACTIVE"
+        },
+        "1572866217": {
+            "rpc.myetherwallet.com": "INACTIVE",
+            "rt.quadrigacx.com": "INACTIVE",
+            "ww.cryptopia.co.nz": "INACTIVE"
+        },
+        "1572866222": {
+            "wiki.evergreencoin.org": "INACTIVE"
+        },
+        "1572866223": {
+            "headers.electrum.org": "INACTIVE"
         }
     }
 }
