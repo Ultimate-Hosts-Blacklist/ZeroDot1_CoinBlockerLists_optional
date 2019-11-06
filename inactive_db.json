@@ -69,7 +69,6 @@
             "www.wallet.trezor.io": "INACTIVE"
         },
         "1571359092": {
-            "foundry.electrum.org": "INACTIVE",
             "kriptometre.btcturk.com": "INACTIVE",
             "m.cryptopia.co.nz": "INACTIVE",
             "o6.em.quadrigacx.com": "INACTIVE"
@@ -1356,6 +1355,91 @@
         },
         "1572866223": {
             "headers.electrum.org": "INACTIVE"
+        },
+        "1573001238": {
+            "psychomining.de": "INACTIVE"
+        },
+        "1573001240": {
+            "www.bitcoin-doubler.us": "INACTIVE"
+        },
+        "1573001243": {
+            "offers.cryptopia.co.nz": "INACTIVE"
+        },
+        "1573001260": {
+            "www.bch-bitcore2.trezor.io": "INACTIVE"
+        },
+        "1573001267": {
+            "www.api.binance.com": "INACTIVE"
+        },
+        "1573001280": {
+            "beta.mycrypto.com": "INACTIVE"
+        },
+        "1573001290": {
+            "www.bitfinex.com": "INACTIVE"
+        },
+        "1573001296": {
+            "web6.hashgains.com": "INACTIVE"
+        },
+        "1573001297": {
+            "office.cryptopia.co.nz": "INACTIVE"
+        },
+        "1573001302": {
+            "wiki.evergreencoin.org": "INACTIVE"
+        },
+        "1573001308": {
+            "cdn2.inwemo.com": "INACTIVE",
+            "mta85.a.hashgains.com": "INACTIVE",
+            "web3.hashgains.com": "INACTIVE"
+        },
+        "1573001309": {
+            "api.cryptopia.co.nz": "INACTIVE",
+            "test.rockwall.investments": "INACTIVE",
+            "webdisk.api.cryptoguiminer.com": "INACTIVE"
+        },
+        "1573001314": {
+            "certification.bithumb.com": "INACTIVE"
+        },
+        "1573001315": {
+            "redmine.emercoin.com": "INACTIVE"
+        },
+        "1573001320": {
+            "btc-smtp.bithumb.com": "INACTIVE"
+        },
+        "1573001321": {
+            "go.cur.lv": "INACTIVE"
+        },
+        "1573001326": {
+            "ems02.bithumb.com": "INACTIVE"
+        },
+        "1573001332": {
+            "web1.hashgains.com": "INACTIVE"
+        },
+        "1573001333": {
+            "ftp.miningfarmasics.com": "INACTIVE",
+            "mineshaft1.cryptopia.co.nz": "INACTIVE"
+        },
+        "1573001338": {
+            "stream.binance.com": "INACTIVE"
+        },
+        "1573001339": {
+            "ad212.a-ads.com": "INACTIVE",
+            "www.rm.cointraffic.io": "INACTIVE"
+        },
+        "1573001346": {
+            "getbitcoin.nz": "INACTIVE",
+            "www.cur.lv": "INACTIVE"
+        },
+        "1573001347": {
+            "zec-bitcore1.trezor.io": "INACTIVE"
+        },
+        "1573001352": {
+            "adc.cryptopia.co.nz": "INACTIVE",
+            "node.jwallet.network": "INACTIVE",
+            "parners.cryptopia.co.nz": "INACTIVE"
+        },
+        "1573001358": {
+            "ems04.bithumb.com": "INACTIVE",
+            "foundry.electrum.org": "INACTIVE"
         }
     }
 }
