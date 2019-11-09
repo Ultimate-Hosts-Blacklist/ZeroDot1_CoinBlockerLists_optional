@@ -5,7 +5,7 @@
         "state": "future"
     },
     "803mine.com": {
-        "epoch": 1566950400,
+        "epoch": 1566950400.0,
         "expiration_date": "28-aug-2019",
         "state": "past"
     },
