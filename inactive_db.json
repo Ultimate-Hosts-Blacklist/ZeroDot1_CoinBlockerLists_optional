@@ -73,9 +73,6 @@
             "m.cryptopia.co.nz": "INACTIVE",
             "o6.em.quadrigacx.com": "INACTIVE"
         },
-        "1571359097": {
-            "return.bithumb.com": "INACTIVE"
-        },
         "1571359103": {
             "calendar.coinmama.com": "INACTIVE",
             "ns2.a-ads.com": "INACTIVE",
@@ -951,9 +948,6 @@
         "1572431203": {
             "domainkey.rockwall.investments": "INACTIVE"
         },
-        "1572431208": {
-            "return.bithumb.com": "INACTIVE"
-        },
         "1572431214": {
             "ad302.a-ads.com": "INACTIVE",
             "api.inwemo.com": "INACTIVE",
@@ -1134,9 +1128,6 @@
         "1572657327": {
             "calendar.coinmama.com": "INACTIVE",
             "parners.cryptopia.co.nz": "INACTIVE"
-        },
-        "1572657332": {
-            "return.bithumb.com": "INACTIVE"
         },
         "1572657340": {
             "getbitcoin.nz": "INACTIVE",
@@ -1595,6 +1586,77 @@
         },
         "1573260068": {
             "mta87.a.hashgains.com": "INACTIVE"
+        },
+        "1573296984": {
+            "stream2.binance.com": "INACTIVE"
+        },
+        "1573296990": {
+            "psychomining.de": "INACTIVE"
+        },
+        "1573296997": {
+            "stream.binance.com": "INACTIVE"
+        },
+        "1573297023": {
+            "mta86.a.hashgains.com": "INACTIVE"
+        },
+        "1573297033": {
+            "mta91.a.hashgains.com": "INACTIVE"
+        },
+        "1573297034": {
+            "sadmin.rockwall.investments": "INACTIVE"
+        },
+        "1573297039": {
+            "o6.em.quadrigacx.com": "INACTIVE"
+        },
+        "1573297047": {
+            "mta82.a.hashgains.com": "INACTIVE"
+        },
+        "1573297058": {
+            "mta89.a.hashgains.com": "INACTIVE"
+        },
+        "1573297059": {
+            "devweb2.cryptopia.co.nz": "INACTIVE",
+            "mike.rockwall.investments": "INACTIVE"
+        },
+        "1573297065": {
+            "emstrk.bithumb.com": "INACTIVE"
+        },
+        "1573297070": {
+            "psychomining.de": "INACTIVE"
+        },
+        "1573297071": {
+            "beta.simplemining.net": "INACTIVE"
+        },
+        "1573297081": {
+            "cpanel.imperiumminer.com": "INACTIVE",
+            "mta88.a.hashgains.com": "INACTIVE"
+        },
+        "1573297087": {
+            "chf.a-ads.com": "INACTIVE",
+            "o5.em.quadrigacx.com": "INACTIVE"
+        },
+        "1573297088": {
+            "minneapolis.rockwall.investments": "INACTIVE"
+        },
+        "1573297093": {
+            "mta82.hashgains.com": "INACTIVE",
+            "mta90.a.hashgains.com": "INACTIVE",
+            "tm.btcturk.com": "INACTIVE"
+        },
+        "1573297099": {
+            "stream2.binance.com": "INACTIVE"
+        },
+        "1573297105": {
+            "certification.bithumb.com": "INACTIVE"
+        },
+        "1573297106": {
+            "chat.coinmama.com": "INACTIVE"
+        },
+        "1573297116": {
+            "mta83.a.hashgains.com": "INACTIVE"
+        },
+        "1573297121": {
+            "return.bithumb.com": "INACTIVE"
         }
     }
 }
