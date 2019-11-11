@@ -123,8 +123,7 @@
         },
         "1571359156": {
             "btc.a-ads.com": "INACTIVE",
-            "dash-bitcore1.trezor.io": "INACTIVE",
-            "wss1.bithumb.com": "INACTIVE"
+            "dash-bitcore1.trezor.io": "INACTIVE"
         },
         "1571359161": {
             "autodiscover.btc-alpha.com": "INACTIVE",
@@ -774,8 +773,7 @@
         "1572224257": {
             "lt.cryptopia.co.nz": "INACTIVE",
             "mta89.a.hashgains.com": "INACTIVE",
-            "status.coinmama.com": "INACTIVE",
-            "wss1.bithumb.com": "INACTIVE"
+            "status.coinmama.com": "INACTIVE"
         },
         "1572224271": {
             "mta82.a.hashgains.com": "INACTIVE"
