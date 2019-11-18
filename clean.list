@@ -14,6 +14,7 @@ api.binance.com
 api.bitfinex.com
 api.bithumb.com
 api.btcturk.com
+api.coinmama.com
 api.jaxx.io
 api.ledgerwallet.com
 api.mymonero.com
@@ -34,7 +35,6 @@ beta.mycrypto.com
 bfgminer.org
 binance.com
 bitcoin.org
-bitcoinminers.eu
 bitcore1.trezor.io
 bitcore3.trezor.io
 bitfinex.com
@@ -48,6 +48,7 @@ btc-bitcore1.trezor.io
 btc-bitcore3.trezor.io
 btcturk.com
 buy.mycrypto.com
+careers.coinmama.com
 cex.io
 chainradar.com
 changelly.com
@@ -136,6 +137,7 @@ ico.icerockmining.io
 imap.quadrigacx.com
 index.bithumb.com
 inwemo.com
+iota.bitfinex.com
 ja.bithumb.com
 ja.m.bithumb.com
 jaxx.io
@@ -170,8 +172,8 @@ my.ledgerwallet.com
 mycrypto.com
 myetherwallet.com
 mymonero.com
+offers.cryptopia.co.nz
 old-wallet.trezor.io
-old.coinad.com
 oracolxor.io
 orders.whattomine.com
 overflow.mycrypto.com
@@ -213,6 +215,8 @@ start.ledgerwallet.com
 static.a-ads.com
 static.bithumb.com
 status.trezor.io
+stream.binance.com
+stream2.binance.com
 superbitcoiner.com
 support.a-ads.com
 support.binance.com
@@ -242,13 +246,14 @@ webdisk.cryptoguiminer.com
 webdisk.uclick.in
 whattomine.com
 whm.gameofbitcoins.com
+widget.coinmama.com
+wiki.evergreencoin.org
 wiki.trezor.io
 winter.mycrypto.com
 ws.bixin.im
 ws.ledgerwallet.com
 wss.bithumb.com
 www.1safe.link
-www.803mine.com
 www.a-ads.com
 www.adconity.com
 www.antminer-store.com
@@ -257,7 +262,6 @@ www.awesomeminer.com
 www.bfgminer.org
 www.binance.com
 www.bitcoin.org
-www.bitcoinminers.eu
 www.bitfinex.com
 www.bithumb.com
 www.bitmain.com
@@ -265,6 +269,7 @@ www.bitmaintech.com
 www.bixin.im
 www.btc-alpha.com
 www.btcturk.com
+www.careers.coinmama.com
 www.cex.io
 www.chainradar.com
 www.changelly.com
@@ -291,6 +296,7 @@ www.emercoin.com
 www.ether.cards
 www.evergreencoin.org
 www.faucethub.io
+www.forminerpro.com
 www.ftp.binance.com
 www.gameofbitcoins.com
 www.getmonero.org
@@ -349,3 +355,4 @@ www.uclick.in
 www.upcoin.com
 www.us.binance.com
 www.whattomine.com
+www1.bithumb.com
