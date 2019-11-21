@@ -612,7 +612,6 @@
             "domainkey.rockwall.investments": "INACTIVE"
         },
         "1572049737": {
-            "rc.bithumb.com": "INACTIVE",
             "www.old-wallet.trezor.io": "INACTIVE"
         },
         "1572049747": {
@@ -1698,7 +1697,6 @@
         },
         "1573952710": {
             "dashboard.inwemo.com": "INACTIVE",
-            "rc.bithumb.com": "INACTIVE",
             "realtime.quadrigacx.com": "INACTIVE"
         },
         "1573952711": {
@@ -2103,7 +2101,6 @@
         },
         "1574074124": {
             "ftp.bitcoin-doubler.us": "INACTIVE",
-            "rc.bithumb.com": "INACTIVE",
             "www.0x.mycrypto.com": "INACTIVE"
         },
         "1574074125": {
@@ -2880,6 +2877,334 @@
         },
         "1574298864": {
             "pg-relay.bithumb.com": "INACTIVE"
+        },
+        "1574334809": {
+            "www.inwemo.com": "INACTIVE"
+        },
+        "1574334811": {
+            "www.bitcoin-doubler.us": "INACTIVE"
+        },
+        "1574334812": {
+            "www.minerboard.com": "INACTIVE"
+        },
+        "1574334821": {
+            "www.kncminer.com": "INACTIVE"
+        },
+        "1574334822": {
+            "www.tradewin.online": "INACTIVE"
+        },
+        "1574334866": {
+            "io.rockwall.investments": "INACTIVE"
+        },
+        "1574334878": {
+            "www.cur.lv": "INACTIVE"
+        },
+        "1574334880": {
+            "foundry.electrum.org": "INACTIVE"
+        },
+        "1574334888": {
+            "www.inwemo.com": "INACTIVE"
+        },
+        "1574334890": {
+            "mike.rockwall.investments": "INACTIVE"
+        },
+        "1574334892": {
+            "www.kncminer.com": "INACTIVE"
+        },
+        "1574334897": {
+            "mta90.a.hashgains.com": "INACTIVE"
+        },
+        "1574334902": {
+            "iota.bitfinex.com": "INACTIVE"
+        },
+        "1574334908": {
+            "btc-smtp.bithumb.com": "INACTIVE",
+            "mars.cryptopia.co.nz": "INACTIVE"
+        },
+        "1574334910": {
+            "mta86.a.hashgains.com": "INACTIVE"
+        },
+        "1574334912": {
+            "autoconfig.bitcoin-doubler.us": "INACTIVE"
+        },
+        "1574334913": {
+            "ad203.a-ads.com": "INACTIVE",
+            "name.cur.lv": "INACTIVE"
+        },
+        "1574334915": {
+            "mta84.a.hashgains.com": "INACTIVE"
+        },
+        "1574334917": {
+            "mta85.a.hashgains.com": "INACTIVE"
+        },
+        "1574334921": {
+            "chat.coinmama.com": "INACTIVE",
+            "mta91.a.hashgains.com": "INACTIVE"
+        },
+        "1574334927": {
+            "o5.em.quadrigacx.com": "INACTIVE",
+            "www.event.rockwall.investments": "INACTIVE"
+        },
+        "1574334932": {
+            "esbc.bithumb.com": "INACTIVE"
+        },
+        "1574334933": {
+            "mx.peerhash.com": "INACTIVE"
+        },
+        "1574334934": {
+            "dev.coinmama.com": "INACTIVE"
+        },
+        "1574334935": {
+            "bitcoinminers.eu": "INACTIVE"
+        },
+        "1574334936": {
+            "btc.a-ads.com": "INACTIVE",
+            "dev-xhlkashd.coinmama.com": "INACTIVE"
+        },
+        "1574334937": {
+            "ad222.a-ads.com": "INACTIVE",
+            "www.beta-wallet.trezor.io": "INACTIVE"
+        },
+        "1574334942": {
+            "certification.bithumb.com": "INACTIVE",
+            "ws.bitfinex.com": "INACTIVE"
+        },
+        "1574334948": {
+            "o1.em.quadrigacx.com": "INACTIVE"
+        },
+        "1574334949": {
+            "to.cur.lv": "INACTIVE",
+            "web4.hashgains.com": "INACTIVE"
+        },
+        "1574334951": {
+            "www.rm.cointraffic.io": "INACTIVE"
+        },
+        "1574334953": {
+            "ftp.awesomeminer.com": "INACTIVE",
+            "www.api.mymonero.com": "INACTIVE",
+            "www.pay.bithumb.com": "INACTIVE"
+        },
+        "1574334955": {
+            "mta87.a.hashgains.com": "INACTIVE"
+        },
+        "1574334956": {
+            "babyalex.coinmama.com": "INACTIVE"
+        },
+        "1574334957": {
+            "nostalgia.bitfinex.com": "INACTIVE",
+            "www.miningfarmasics.com": "INACTIVE"
+        },
+        "1574334958": {
+            "www.imperiumminer.com": "INACTIVE"
+        },
+        "1574334959": {
+            "apps2.cointraffic.io": "INACTIVE"
+        },
+        "1574334964": {
+            "o3.em.quadrigacx.com": "INACTIVE"
+        },
+        "1574334972": {
+            "rt.quadrigacx.com": "INACTIVE"
+        },
+        "1574334977": {
+            "psychomining.de": "INACTIVE"
+        },
+        "1574334982": {
+            "o6.em.quadrigacx.com": "INACTIVE"
+        },
+        "1574334984": {
+            "ftp.bitcoin-doubler.us": "INACTIVE",
+            "www.status.trezor.io": "INACTIVE"
+        },
+        "1574334985": {
+            "ftp.miningfarmasics.com": "INACTIVE",
+            "wss1.bithumb.com": "INACTIVE"
+        },
+        "1574334986": {
+            "www.imperiumminer.com": "INACTIVE"
+        },
+        "1574334992": {
+            "bch-bitcore2.trezor.io": "INACTIVE",
+            "return.bithumb.com": "INACTIVE"
+        },
+        "1574334993": {
+            "ad228.a-ads.com": "INACTIVE"
+        },
+        "1574334994": {
+            "mta83.a.hashgains.com": "INACTIVE"
+        },
+        "1574335000": {
+            "emstrk.bithumb.com": "INACTIVE"
+        },
+        "1574335005": {
+            "helpdesk.bitfinex.com": "INACTIVE"
+        },
+        "1574335010": {
+            "ems05.bithumb.com": "INACTIVE"
+        },
+        "1574335011": {
+            "ad212.a-ads.com": "INACTIVE"
+        },
+        "1574335013": {
+            "bitcoin-doubler.us": "INACTIVE"
+        },
+        "1574335015": {
+            "status.coinmama.com": "INACTIVE"
+        },
+        "1574335016": {
+            "api2.bitfinex.com": "INACTIVE",
+            "test.rockwall.investments": "INACTIVE",
+            "www.ico.icerockmining.io": "INACTIVE"
+        },
+        "1574335017": {
+            "go.cur.lv": "INACTIVE",
+            "jp.simplemining.net": "INACTIVE"
+        },
+        "1574335019": {
+            "test.ledgerwallet.com": "INACTIVE"
+        },
+        "1574335021": {
+            "m.cryptopia.co.nz": "INACTIVE",
+            "mike.cryptopia.co.nz": "INACTIVE"
+        },
+        "1574335022": {
+            "upload.a-ads.com": "INACTIVE"
+        },
+        "1574335024": {
+            "webdisk.api.cryptoguiminer.com": "INACTIVE"
+        },
+        "1574335029": {
+            "waiting.bithumb.com": "INACTIVE"
+        },
+        "1574335030": {
+            "cdn.inwemo.com": "INACTIVE"
+        },
+        "1574335033": {
+            "mta89.a.hashgains.com": "INACTIVE"
+        },
+        "1574335034": {
+            "event.btc-alpha.com": "INACTIVE",
+            "mineshaft.cryptopia.co.nz": "INACTIVE",
+            "pay.bithumb.com": "INACTIVE"
+        },
+        "1574335035": {
+            "ad014.a-ads.com": "INACTIVE"
+        },
+        "1574335037": {
+            "merchant.bithumb.com": "INACTIVE"
+        },
+        "1574335038": {
+            "infra2.bithumb.com": "INACTIVE"
+        },
+        "1574335044": {
+            "ems02.bithumb.com": "INACTIVE"
+        },
+        "1574335046": {
+            "ftp.antminer-store.com": "INACTIVE",
+            "www.connect.trezor.io": "INACTIVE"
+        },
+        "1574335047": {
+            "www.0x.mycrypto.com": "INACTIVE"
+        },
+        "1574335048": {
+            "dc.rockwall.investments": "INACTIVE",
+            "in.cur.lv": "INACTIVE"
+        },
+        "1574335050": {
+            "www.files.cointraffic.io": "INACTIVE"
+        },
+        "1574335055": {
+            "node.jwallet.network": "INACTIVE"
+        },
+        "1574335061": {
+            "ad008.a-ads.com": "INACTIVE",
+            "message.bithumb.com": "INACTIVE",
+            "www.tradewin.online": "INACTIVE"
+        },
+        "1574335067": {
+            "psychomining.de": "INACTIVE"
+        },
+        "1574335068": {
+            "n.cur.lv": "INACTIVE"
+        },
+        "1574335069": {
+            "apps.cointraffic.io": "INACTIVE",
+            "www.miningfarmasics.com": "INACTIVE"
+        },
+        "1574335070": {
+            "secure.coinmama.com": "INACTIVE"
+        },
+        "1574335071": {
+            "ad032.a-ads.com": "INACTIVE",
+            "ad225.a-ads.com": "INACTIVE"
+        },
+        "1574335074": {
+            "www.getbitcoin.nz": "INACTIVE"
+        },
+        "1574335075": {
+            "webdisk.antminer-store.com": "INACTIVE"
+        },
+        "1574335077": {
+            "www.apps.cointraffic.io": "INACTIVE"
+        },
+        "1574335083": {
+            "ems03.bithumb.com": "INACTIVE"
+        },
+        "1574335088": {
+            "helpdesk2.bitfinex.com": "INACTIVE",
+            "realtime.quadrigacx.com": "INACTIVE"
+        },
+        "1574335089": {
+            "devweb2.cryptopia.co.nz": "INACTIVE",
+            "lb4.a-ads.com": "INACTIVE"
+        },
+        "1574335094": {
+            "o2.em.quadrigacx.com": "INACTIVE"
+        },
+        "1574335095": {
+            "chf.a-ads.com": "INACTIVE",
+            "mineshaft1.cryptopia.co.nz": "INACTIVE"
+        },
+        "1574335100": {
+            "o4.em.quadrigacx.com": "INACTIVE"
+        },
+        "1574335102": {
+            "jump.cur.lv": "INACTIVE"
+        },
+        "1574335108": {
+            "ems06.bithumb.com": "INACTIVE"
+        },
+        "1574335109": {
+            "cpanel.imperiumminer.com": "INACTIVE",
+            "my.cur.lv": "INACTIVE"
+        },
+        "1574335111": {
+            "rm.cointraffic.io": "INACTIVE"
+        },
+        "1574335112": {
+            "cpanel.antminer-store.com": "INACTIVE"
+        },
+        "1574335114": {
+            "bitcoinminers.eu": "INACTIVE"
+        },
+        "1574335115": {
+            "www.artus-mining.de": "INACTIVE"
+        },
+        "1574335120": {
+            "mta88.a.hashgains.com": "INACTIVE"
+        },
+        "1574335121": {
+            "minneapolis.rockwall.investments": "INACTIVE"
+        },
+        "1574335123": {
+            "www.apps2.cointraffic.io": "INACTIVE"
+        },
+        "1574335124": {
+            "www.artus-mining.de": "INACTIVE",
+            "www.btc-bitcore1.trezor.io": "INACTIVE"
+        },
+        "1574335125": {
+            "rc.bithumb.com": "INACTIVE"
         }
     }
 }
