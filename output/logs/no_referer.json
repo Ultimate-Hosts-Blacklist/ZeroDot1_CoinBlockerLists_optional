@@ -194,5 +194,21 @@
     "1575467412.983021": {
         "domain": "ftp.bitcoin-doubler.us",
         "extension": "us"
+    },
+    "1575472641.467271": {
+        "domain": "bitcoin-doubler.us",
+        "extension": "us"
+    },
+    "1575472641.477545": {
+        "domain": "www.bitcoin-doubler.us",
+        "extension": "us"
+    },
+    "1575473141.341983": {
+        "domain": "ftp.bitcoin-doubler.us",
+        "extension": "us"
+    },
+    "1575473171.958251": {
+        "domain": "autoconfig.bitcoin-doubler.us",
+        "extension": "us"
     }
 }
