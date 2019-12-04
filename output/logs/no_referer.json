@@ -230,5 +230,13 @@
     "1575478567.540613": {
         "domain": "ftp.bitcoin-doubler.us",
         "extension": "us"
+    },
+    "1575483536.645158": {
+        "domain": "bitcoin-doubler.us",
+        "extension": "us"
+    },
+    "1575483536.669565": {
+        "domain": "www.bitcoin-doubler.us",
+        "extension": "us"
     }
 }
