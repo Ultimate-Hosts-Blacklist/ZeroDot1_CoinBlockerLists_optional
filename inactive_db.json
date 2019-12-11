@@ -65,7 +65,6 @@
         },
         "1574815780": {
             "basicdemo.emercoin.com": "INACTIVE",
-            "bch-bitcore2.trezor.io": "INACTIVE",
             "web3.hashgains.com": "INACTIVE"
         },
         "1574815802": {
@@ -913,8 +912,7 @@
             "ns2.a-ads.com": "INACTIVE"
         },
         "1575731124": {
-            "artus-mining.de": "INACTIVE",
-            "bch-bitcore2.trezor.io": "INACTIVE"
+            "artus-mining.de": "INACTIVE"
         },
         "1575731129": {
             "dev-xhlkashd.coinmama.com": "INACTIVE",
@@ -1085,7 +1083,6 @@
             "upload.a-ads.com": "INACTIVE"
         },
         "1575762071": {
-            "bch-bitcore2.trezor.io": "INACTIVE",
             "localhost.quadrigacx.com": "INACTIVE",
             "www.alpha.myetherwallet.com": "INACTIVE"
         },
@@ -1701,6 +1698,66 @@
         },
         "1576019482": {
             "mta89.a.hashgains.com": "INACTIVE"
+        },
+        "1576022916": {
+            "ltc.cryptopia.co.nz": "INACTIVE"
+        },
+        "1576022918": {
+            "apps2.cointraffic.io": "INACTIVE"
+        },
+        "1576022919": {
+            "bitcoin-doubler.us": "INACTIVE"
+        },
+        "1576022937": {
+            "getbitcoin.nz": "INACTIVE"
+        },
+        "1576022938": {
+            "ad007.a-ads.com": "INACTIVE",
+            "ad014.a-ads.com": "INACTIVE"
+        },
+        "1576022941": {
+            "www.imperiumminer.com": "INACTIVE"
+        },
+        "1576022942": {
+            "pay.bithumb.com": "INACTIVE",
+            "webdisk.antminer-store.com": "INACTIVE"
+        },
+        "1576022943": {
+            "beta.simplemining.net": "INACTIVE",
+            "www.event.rockwall.investments": "INACTIVE"
+        },
+        "1576022944": {
+            "miningfarmasics.com": "INACTIVE"
+        },
+        "1576022950": {
+            "ad009.a-ads.com": "INACTIVE",
+            "api.cryptoguiminer.com": "INACTIVE"
+        },
+        "1576022965": {
+            "domainkey.rockwall.investments": "INACTIVE",
+            "www.getbitcoin.nz": "INACTIVE"
+        },
+        "1576022966": {
+            "bitcoinminers.eu": "INACTIVE"
+        },
+        "1576022967": {
+            "www.bitcoinminers.eu": "INACTIVE"
+        },
+        "1576022969": {
+            "www.bitcoin-doubler.us": "INACTIVE"
+        },
+        "1576022971": {
+            "ad.s.a-ads.com": "INACTIVE",
+            "rm.cointraffic.io": "INACTIVE"
+        },
+        "1576022972": {
+            "rpc.myetherwallet.com": "INACTIVE"
+        },
+        "1576022997": {
+            "mta85.a.hashgains.com": "INACTIVE"
+        },
+        "1576022998": {
+            "bch-bitcore2.trezor.io": "INACTIVE"
         }
     }
 }
