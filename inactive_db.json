@@ -501,9 +501,6 @@
             "stats.ethc.io": "INACTIVE",
             "web5.hashgains.com": "INACTIVE"
         },
-        "1576428711": {
-            "ftp.inwemo.com": "INACTIVE"
-        },
         "1576538703": {
             "beta.bitfinex.com": "INACTIVE"
         },
@@ -599,7 +596,6 @@
             "ftp.miningfarmasics.com": "INACTIVE"
         },
         "1576539041": {
-            "ftp.inwemo.com": "INACTIVE",
             "o1.coinmama.com": "INACTIVE"
         },
         "1576539042": {
@@ -746,6 +742,227 @@
         },
         "1576539161": {
             "ad212.a-ads.com": "INACTIVE"
+        },
+        "1576580860": {
+            "rc.bithumb.com": "INACTIVE"
+        },
+        "1576580871": {
+            "linfen.cryptopia.co.nz": "INACTIVE"
+        },
+        "1576580907": {
+            "m.cryptopia.co.nz": "INACTIVE"
+        },
+        "1576580931": {
+            "netvision.cryptopia.co.nz": "INACTIVE"
+        },
+        "1576580934": {
+            "zec-bitcore1.trezor.io": "INACTIVE"
+        },
+        "1576580939": {
+            "www.wallet.trezor.io": "INACTIVE"
+        },
+        "1576580953": {
+            "www.tradewin.online": "INACTIVE"
+        },
+        "1576580970": {
+            "www.bitcore3.trezor.io": "INACTIVE"
+        },
+        "1576580978": {
+            "honeypot.cryptopia.co.nz": "INACTIVE"
+        },
+        "1576580979": {
+            "www.ico.icerockmining.io": "INACTIVE"
+        },
+        "1576580983": {
+            "www.kncminer.com": "INACTIVE"
+        },
+        "1576581014": {
+            "www.cryptoguiminer.com": "INACTIVE"
+        },
+        "1576581034": {
+            "mike.cryptopia.co.nz": "INACTIVE"
+        },
+        "1576581083": {
+            "w.cryptopia.co.nz": "INACTIVE"
+        },
+        "1576581149": {
+            "www.beta-wallet.trezor.io": "INACTIVE"
+        },
+        "1576581150": {
+            "api.mycrypto.com": "INACTIVE"
+        },
+        "1576581164": {
+            "www.imperiumminer.com": "INACTIVE"
+        },
+        "1576581178": {
+            "bch-bitcore2.trezor.io": "INACTIVE"
+        },
+        "1576581179": {
+            "aws.simplemining.net": "INACTIVE"
+        },
+        "1576581184": {
+            "dashboard.inwemo.com": "INACTIVE"
+        },
+        "1576581185": {
+            "admin.coinmama.com": "INACTIVE"
+        },
+        "1576581187": {
+            "www.apps.cointraffic.io": "INACTIVE"
+        },
+        "1576581188": {
+            "sadmin.rockwall.investments": "INACTIVE"
+        },
+        "1576581189": {
+            "ftp.antminer-store.com": "INACTIVE"
+        },
+        "1576581190": {
+            "cdn.inwemo.com": "INACTIVE",
+            "foundry.electrum.org": "INACTIVE"
+        },
+        "1576581196": {
+            "api.cryptoguiminer.com": "INACTIVE"
+        },
+        "1576581198": {
+            "www.bitcoinminers.eu": "INACTIVE"
+        },
+        "1576581199": {
+            "apps2.cointraffic.io": "INACTIVE",
+            "www.tradewin.online": "INACTIVE"
+        },
+        "1576581200": {
+            "ad226.a-ads.com": "INACTIVE",
+            "n1.cryptopia.co.nz": "INACTIVE",
+            "www3.a-ads.com": "INACTIVE"
+        },
+        "1576581201": {
+            "www.go.coinmama.com": "INACTIVE",
+            "www.pay.bithumb.com": "INACTIVE"
+        },
+        "1576581202": {
+            "ftp.imperiumminer.com": "INACTIVE",
+            "www.event.rockwall.investments": "INACTIVE"
+        },
+        "1576581203": {
+            "ftp.miningfarmasics.com": "INACTIVE",
+            "www.inwemo.com": "INACTIVE"
+        },
+        "1576581209": {
+            "getbitcoin.nz": "INACTIVE",
+            "localhost.quadrigacx.com": "INACTIVE"
+        },
+        "1576581211": {
+            "ftp.oracolxor.io": "INACTIVE"
+        },
+        "1576581213": {
+            "www.apps2.cointraffic.io": "INACTIVE"
+        },
+        "1576581214": {
+            "dev.coinmama.com": "INACTIVE",
+            "secure.coinmama.com": "INACTIVE"
+        },
+        "1576581215": {
+            "babyalex.coinmama.com": "INACTIVE",
+            "wiki.emercoin.com": "INACTIVE"
+        },
+        "1576581216": {
+            "ad225.a-ads.com": "INACTIVE",
+            "imperiumminer.com": "INACTIVE",
+            "www.overflow.mycrypto.com": "INACTIVE"
+        },
+        "1576581217": {
+            "ad222.a-ads.com": "INACTIVE"
+        },
+        "1576581223": {
+            "i2p.emercoin.com": "INACTIVE",
+            "webdisk.cryptoguiminer.com": "INACTIVE"
+        },
+        "1576581229": {
+            "www.cryptoguiminer.com": "INACTIVE"
+        },
+        "1576581230": {
+            "chat.coinmama.com": "INACTIVE"
+        },
+        "1576581232": {
+            "apps.cointraffic.io": "INACTIVE"
+        },
+        "1576581234": {
+            "dev.a-ads.com": "INACTIVE",
+            "stats.ethc.io": "INACTIVE"
+        },
+        "1576581235": {
+            "ad005.a-ads.com": "INACTIVE",
+            "ad014.a-ads.com": "INACTIVE"
+        },
+        "1576581241": {
+            "webdisk.api.cryptoguiminer.com": "INACTIVE"
+        },
+        "1576581243": {
+            "cpanel.antminer-store.com": "INACTIVE"
+        },
+        "1576581244": {
+            "webdisk.antminer-store.com": "INACTIVE"
+        },
+        "1576581250": {
+            "cloud.cryptoguiminer.com": "INACTIVE"
+        },
+        "1576581251": {
+            "ad213.a-ads.com": "INACTIVE",
+            "www1.a-ads.com": "INACTIVE"
+        },
+        "1576581254": {
+            "api.inwemo.com": "INACTIVE",
+            "www.rm.cointraffic.io": "INACTIVE"
+        },
+        "1576581255": {
+            "ad013.a-ads.com": "INACTIVE",
+            "o1.coinmama.com": "INACTIVE"
+        },
+        "1576581258": {
+            "dns3.rockwall.investments": "INACTIVE",
+            "mm.a-ads.com": "INACTIVE",
+            "mta82.hashgains.com": "INACTIVE",
+            "www.api.mymonero.com": "INACTIVE"
+        },
+        "1576581259": {
+            "cpanel.imperiumminer.com": "INACTIVE"
+        },
+        "1576581262": {
+            "bitcoin-doubler.us": "INACTIVE"
+        },
+        "1576581264": {
+            "www.oracolxor.io": "INACTIVE"
+        },
+        "1576581270": {
+            "cpanel.cryptoguiminer.com": "INACTIVE"
+        },
+        "1576581271": {
+            "cdn2.inwemo.com": "INACTIVE",
+            "io.rockwall.investments": "INACTIVE"
+        },
+        "1576581272": {
+            "ftp.quadrigacx.com": "INACTIVE"
+        },
+        "1576581274": {
+            "api2.bitfinex.com": "INACTIVE",
+            "ftp.adconity.com": "INACTIVE",
+            "www.kncminer.com": "INACTIVE"
+        },
+        "1576581276": {
+            "ad218.a-ads.com": "INACTIVE",
+            "bitcoin-doubler.us": "INACTIVE",
+            "mx.peerhash.com": "INACTIVE"
+        },
+        "1576581277": {
+            "ad210.a-ads.com": "INACTIVE"
+        },
+        "1576581281": {
+            "getbitcoin.nz": "INACTIVE"
+        },
+        "1576581282": {
+            "bitcoinminers.eu": "INACTIVE"
+        },
+        "1576581283": {
+            "ftp.inwemo.com": "INACTIVE"
         }
     }
 }
