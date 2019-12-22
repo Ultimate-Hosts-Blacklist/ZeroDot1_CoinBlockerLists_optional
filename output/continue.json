@@ -394,7 +394,8 @@
         "api.btcturk.com",
         "www.us.binance.com",
         "api01.ledgerwallet.com",
-        "mta91.a.hashgains.com"
+        "mta91.a.hashgains.com",
+        "mta82.a.hashgains.com"
     ],
     "INACTIVE": [
         "mta86.a.hashgains.com",
@@ -596,6 +597,34 @@
         "ad226.a-ads.com",
         "nostalgia.bitfinex.com",
         "dev.a-ads.com",
-        "mta89.a.hashgains.com"
+        "mta89.a.hashgains.com",
+        "ad007.a-ads.com",
+        "web5.hashgains.com",
+        "management.cryptopia.co.nz",
+        "games.cryptopia.co.nz",
+        "webdisk.antminer-store.com",
+        "mm.a-ads.com",
+        "ad213.a-ads.com",
+        "minecraft.cryptopia.co.nz",
+        "localhost.cryptopia.co.nz",
+        "dns3.rockwall.investments",
+        "ups.cryptopia.co.nz",
+        "www.old-wallet.trezor.io",
+        "beta.bitfinex.com",
+        "ad009.a-ads.com",
+        "cdn1.cryptopia.co.nz",
+        "www.api.mymonero.com",
+        "ad005.a-ads.com",
+        "ftp.antminer-store.com",
+        "pop3.awesomeminer.com",
+        "help.cryptopia.co.nz",
+        "tm.btcturk.com",
+        "www.rm.cointraffic.io",
+        "pools1.cryptopia.co.nz",
+        "ftp.imperiumminer.com",
+        "minneapolis.rockwall.investments",
+        "dashboard.inwemo.com",
+        "s.a-ads.com",
+        "rc.bithumb.com"
     ]
 }

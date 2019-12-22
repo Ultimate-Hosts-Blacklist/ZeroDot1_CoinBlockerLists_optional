@@ -734,9 +734,6 @@
         "1576539161": {
             "ad212.a-ads.com": "INACTIVE"
         },
-        "1576580860": {
-            "rc.bithumb.com": "INACTIVE"
-        },
         "1576580871": {
             "linfen.cryptopia.co.nz": "INACTIVE"
         },
@@ -1693,6 +1690,69 @@
         },
         "1576977103": {
             "mta89.a.hashgains.com": "INACTIVE"
+        },
+        "1576977914": {
+            "ad007.a-ads.com": "INACTIVE"
+        },
+        "1576977918": {
+            "getbitcoin.nz": "INACTIVE"
+        },
+        "1576977919": {
+            "imperiumminer.com": "INACTIVE"
+        },
+        "1576977925": {
+            "mm.a-ads.com": "INACTIVE",
+            "webdisk.antminer-store.com": "INACTIVE"
+        },
+        "1576977926": {
+            "localhost.cryptopia.co.nz": "INACTIVE",
+            "pay.bithumb.com": "INACTIVE"
+        },
+        "1576977927": {
+            "bitcoinminers.eu": "INACTIVE",
+            "dns3.rockwall.investments": "INACTIVE"
+        },
+        "1576977928": {
+            "apps2.cointraffic.io": "INACTIVE"
+        },
+        "1576977929": {
+            "www.imperiumminer.com": "INACTIVE",
+            "www.old-wallet.trezor.io": "INACTIVE"
+        },
+        "1576977930": {
+            "ad009.a-ads.com": "INACTIVE"
+        },
+        "1576977932": {
+            "www.api.mymonero.com": "INACTIVE"
+        },
+        "1576977934": {
+            "ftp.antminer-store.com": "INACTIVE",
+            "pop3.awesomeminer.com": "INACTIVE",
+            "www.bitcoin-doubler.us": "INACTIVE"
+        },
+        "1576977937": {
+            "www.rm.cointraffic.io": "INACTIVE"
+        },
+        "1576977941": {
+            "www.getbitcoin.nz": "INACTIVE",
+            "zec-bitcore1.trezor.io": "INACTIVE"
+        },
+        "1576977942": {
+            "ftp.imperiumminer.com": "INACTIVE",
+            "minneapolis.rockwall.investments": "INACTIVE"
+        },
+        "1576977943": {
+            "apps.cointraffic.io": "INACTIVE"
+        },
+        "1576977944": {
+            "s.a-ads.com": "INACTIVE"
+        },
+        "1576977945": {
+            "www.miningfarmasics.com": "INACTIVE"
+        },
+        "1576977946": {
+            "rc.bithumb.com": "INACTIVE",
+            "www.bitcoinminers.eu": "INACTIVE"
         }
     }
 }
