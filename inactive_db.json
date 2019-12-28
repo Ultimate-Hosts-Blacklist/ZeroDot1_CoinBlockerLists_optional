@@ -16,9 +16,6 @@
             "dev-xhlkashd.coinmama.com": "INACTIVE",
             "www.rpc.myetherwallet.com": "INACTIVE"
         },
-        "1577325858": {
-            "mx.peerhash.com": "INACTIVE"
-        },
         "1577325859": {
             "calendar.coinmama.com": "INACTIVE",
             "dns3.rockwall.investments": "INACTIVE",
@@ -310,6 +307,53 @@
         },
         "1577497801": {
             "ad217.a-ads.com": "INACTIVE"
+        },
+        "1577500714": {
+            "mta82.hashgains.com": "INACTIVE"
+        },
+        "1577500715": {
+            "w.cryptopia.co.nz": "INACTIVE",
+            "www.shop.trezor.io": "INACTIVE"
+        },
+        "1577500722": {
+            "webdisk.antminer-store.com": "INACTIVE"
+        },
+        "1577500723": {
+            "ftp.adconity.com": "INACTIVE"
+        },
+        "1577500724": {
+            "api.inwemo.com": "INACTIVE"
+        },
+        "1577500732": {
+            "ad212.a-ads.com": "INACTIVE"
+        },
+        "1577500740": {
+            "secure.coinmama.com": "INACTIVE",
+            "www.getbitcoin.nz": "INACTIVE"
+        },
+        "1577500741": {
+            "localhost.quadrigacx.com": "INACTIVE"
+        },
+        "1577500743": {
+            "admin.coinmama.com": "INACTIVE",
+            "cdn.inwemo.com": "INACTIVE"
+        },
+        "1577500749": {
+            "ad014.a-ads.com": "INACTIVE",
+            "calendar.coinmama.com": "INACTIVE",
+            "getbitcoin.nz": "INACTIVE"
+        },
+        "1577500750": {
+            "dashboard.inwemo.com": "INACTIVE"
+        },
+        "1577500752": {
+            "ftp.imperiumminer.com": "INACTIVE"
+        },
+        "1577500755": {
+            "www3.a-ads.com": "INACTIVE"
+        },
+        "1577500756": {
+            "mx.peerhash.com": "INACTIVE"
         }
     }
 }

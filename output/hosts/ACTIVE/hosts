@@ -21,6 +21,7 @@
 0.0.0.0 api.bithumb.com
 0.0.0.0 api.btcturk.com
 0.0.0.0 api.coinmama.com
+0.0.0.0 apidocs.bithumb.com
 0.0.0.0 apidocs.m.bithumb.com
 0.0.0.0 api.jaxx.io
 0.0.0.0 api.ledgerwallet.com
@@ -65,6 +66,7 @@
 0.0.0.0 checkout.hashgains.com
 0.0.0.0 chef.a-ads.com
 0.0.0.0 click.a-ads.com
+0.0.0.0 cloud.awesomeminer.com
 0.0.0.0 cn.bithumb.com
 0.0.0.0 cn.m.bithumb.com
 0.0.0.0 coinad.com
@@ -134,6 +136,7 @@
 0.0.0.0 global.binance.com
 0.0.0.0 go.coinmama.com
 0.0.0.0 go.cur.lv
+0.0.0.0 graphql.bixin.im
 0.0.0.0 hashcoin.io
 0.0.0.0 hashcoins.com
 0.0.0.0 hashcoins.ee
@@ -154,6 +157,7 @@
 0.0.0.0 ja.m.bithumb.com
 0.0.0.0 jaxx.io
 0.0.0.0 joinslack.binance.com
+0.0.0.0 jump.cur.lv
 0.0.0.0 jwallet.network
 0.0.0.0 kncminer.com
 0.0.0.0 kr.binance.com
@@ -183,8 +187,14 @@
 0.0.0.0 mining-rig.de
 0.0.0.0 mobile-update.bithumb.com
 0.0.0.0 monero-miner.000webhostapp.com
+0.0.0.0 mta82.a.hashgains.com
+0.0.0.0 mta83.a.hashgains.com
+0.0.0.0 mta85.a.hashgains.com
+0.0.0.0 mta89.a.hashgains.com
+0.0.0.0 mta91.a.hashgains.com
 0.0.0.0 multipoolminer.io
 0.0.0.0 mycrypto.com
+0.0.0.0 my.cur.lv
 0.0.0.0 myetherwallet.com
 0.0.0.0 my.ledgerwallet.com
 0.0.0.0 mymonero.com
@@ -210,6 +220,7 @@
 0.0.0.0 pg-relay.bithumb.com
 0.0.0.0 pool2.emercoin.com
 0.0.0.0 pool.emercoin.com
+0.0.0.0 pop.quadrigacx.com
 0.0.0.0 preorder.trezor.io
 0.0.0.0 pricing.jaxx.io
 0.0.0.0 privacy.coinmama.com
@@ -225,6 +236,7 @@
 0.0.0.0 realtime.quadrigacx.com
 0.0.0.0 resource2.binance.com
 0.0.0.0 resource.binance.com
+0.0.0.0 return.bithumb.com
 0.0.0.0 ripple.com
 0.0.0.0 rockwall.investments
 0.0.0.0 safelinkconverter.com
@@ -253,6 +265,7 @@
 0.0.0.0 support.evergreencoin.org
 0.0.0.0 support.ledgerwallet.com
 0.0.0.0 support.mycrypto.com
+0.0.0.0 support.quadrigacx.com
 0.0.0.0 test.cryptopia.co.nz
 0.0.0.0 test.ledgerwallet.com
 0.0.0.0 test.simplemining.net
@@ -268,7 +281,9 @@
 0.0.0.0 vip.coinmama.com
 0.0.0.0 waiting.bithumb.com
 0.0.0.0 wallet.trezor.io
+0.0.0.0 web1.hashgains.com
 0.0.0.0 web2.hashgains.com
+0.0.0.0 web6.hashgains.com
 0.0.0.0 web.bixin.im
 0.0.0.0 webdisk.uclick.in
 0.0.0.0 whattomine.com
@@ -330,6 +345,7 @@
 0.0.0.0 www.ftp.binance.com
 0.0.0.0 www.gameofbitcoins.com
 0.0.0.0 www.getmonero.org
+0.0.0.0 www.global.binance.com
 0.0.0.0 www.hashcoin.io
 0.0.0.0 www.hashcoins.com
 0.0.0.0 www.hashcoins.ee

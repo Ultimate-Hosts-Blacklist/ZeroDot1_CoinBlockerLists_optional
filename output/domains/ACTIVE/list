@@ -21,6 +21,7 @@ api.bitfinex.com
 api.bithumb.com
 api.btcturk.com
 api.coinmama.com
+apidocs.bithumb.com
 apidocs.m.bithumb.com
 api.jaxx.io
 api.ledgerwallet.com
@@ -65,6 +66,7 @@ chat.simplemining.net
 checkout.hashgains.com
 chef.a-ads.com
 click.a-ads.com
+cloud.awesomeminer.com
 cn.bithumb.com
 cn.m.bithumb.com
 coinad.com
@@ -134,6 +136,7 @@ getmonero.org
 global.binance.com
 go.coinmama.com
 go.cur.lv
+graphql.bixin.im
 hashcoin.io
 hashcoins.com
 hashcoins.ee
@@ -154,6 +157,7 @@ ja.bithumb.com
 ja.m.bithumb.com
 jaxx.io
 joinslack.binance.com
+jump.cur.lv
 jwallet.network
 kncminer.com
 kr.binance.com
@@ -183,8 +187,14 @@ mineshop.eu
 mining-rig.de
 mobile-update.bithumb.com
 monero-miner.000webhostapp.com
+mta82.a.hashgains.com
+mta83.a.hashgains.com
+mta85.a.hashgains.com
+mta89.a.hashgains.com
+mta91.a.hashgains.com
 multipoolminer.io
 mycrypto.com
+my.cur.lv
 myetherwallet.com
 my.ledgerwallet.com
 mymonero.com
@@ -210,6 +220,7 @@ peerhash.com
 pg-relay.bithumb.com
 pool2.emercoin.com
 pool.emercoin.com
+pop.quadrigacx.com
 preorder.trezor.io
 pricing.jaxx.io
 privacy.coinmama.com
@@ -225,6 +236,7 @@ r5.bithumb.com
 realtime.quadrigacx.com
 resource2.binance.com
 resource.binance.com
+return.bithumb.com
 ripple.com
 rockwall.investments
 safelinkconverter.com
@@ -253,6 +265,7 @@ support.coinmama.com
 support.evergreencoin.org
 support.ledgerwallet.com
 support.mycrypto.com
+support.quadrigacx.com
 test.cryptopia.co.nz
 test.ledgerwallet.com
 test.simplemining.net
@@ -268,7 +281,9 @@ utils.jaxx.io
 vip.coinmama.com
 waiting.bithumb.com
 wallet.trezor.io
+web1.hashgains.com
 web2.hashgains.com
+web6.hashgains.com
 web.bixin.im
 webdisk.uclick.in
 whattomine.com
@@ -330,6 +345,7 @@ www.forminerpro.com
 www.ftp.binance.com
 www.gameofbitcoins.com
 www.getmonero.org
+www.global.binance.com
 www.hashcoin.io
 www.hashcoins.com
 www.hashcoins.ee
