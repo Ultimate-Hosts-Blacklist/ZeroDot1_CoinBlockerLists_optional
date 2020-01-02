@@ -406,7 +406,9 @@
         "ftp.inwemo.com",
         "cdn2.inwemo.com",
         "go.cur.lv",
-        "mta85.a.hashgains.com"
+        "mta85.a.hashgains.com",
+        "mta89.a.hashgains.com",
+        "dashboard.inwemo.com"
     ],
     "INACTIVE": [
         "files.btcturk.com",
@@ -608,6 +610,21 @@
         "devtopia.cryptopia.co.nz",
         "ftp.imperiumminer.com",
         "netvision.cryptopia.co.nz",
-        "mta83.a.hashgains.com"
+        "mta83.a.hashgains.com",
+        "autoconfig.bitcoin-doubler.us",
+        "mx.peerhash.com",
+        "ad.s.a-ads.com",
+        "ftp.miningfarmasics.com",
+        "wiki.emercoin.com",
+        "ups.cryptopia.co.nz",
+        "dev.a-ads.com",
+        "api.cryptoguiminer.com",
+        "ad225.a-ads.com",
+        "admin.adconity.com",
+        "ad203.a-ads.com",
+        "dev-xhlkashd.coinmama.com",
+        "ad226.a-ads.com",
+        "autodiscover.btc-alpha.com",
+        "ftp.hashgains.com"
     ]
 }

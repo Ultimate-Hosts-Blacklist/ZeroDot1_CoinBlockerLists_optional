@@ -1074,6 +1074,53 @@
         },
         "1577929704": {
             "mta83.a.hashgains.com": "INACTIVE"
+        },
+        "1577932509": {
+            "bitcoinminers.eu": "INACTIVE"
+        },
+        "1577932516": {
+            "cloud.cryptoguiminer.com": "INACTIVE"
+        },
+        "1577932521": {
+            "ltc.cryptopia.co.nz": "INACTIVE",
+            "www.bitcoinminers.eu": "INACTIVE"
+        },
+        "1577932522": {
+            "autoconfig.bitcoin-doubler.us": "INACTIVE",
+            "www.miningfarmasics.com": "INACTIVE"
+        },
+        "1577932523": {
+            "ftp.miningfarmasics.com": "INACTIVE",
+            "mx.peerhash.com": "INACTIVE"
+        },
+        "1577932524": {
+            "bitcoin-doubler.us": "INACTIVE",
+            "dev.a-ads.com": "INACTIVE",
+            "zec-bitcore1.trezor.io": "INACTIVE"
+        },
+        "1577932531": {
+            "ad225.a-ads.com": "INACTIVE",
+            "admin.adconity.com": "INACTIVE",
+            "api.cryptoguiminer.com": "INACTIVE"
+        },
+        "1577932532": {
+            "miningfarmasics.com": "INACTIVE",
+            "www.imperiumminer.com": "INACTIVE"
+        },
+        "1577932533": {
+            "dev-xhlkashd.coinmama.com": "INACTIVE"
+        },
+        "1577932549": {
+            "www.getbitcoin.nz": "INACTIVE"
+        },
+        "1577932563": {
+            "getbitcoin.nz": "INACTIVE"
+        },
+        "1577932564": {
+            "apps2.cointraffic.io": "INACTIVE"
+        },
+        "1577932565": {
+            "imperiumminer.com": "INACTIVE"
         }
     }
 }
