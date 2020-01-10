@@ -404,7 +404,8 @@
         "mta82.a.hashgains.com",
         "rt.quadrigacx.com",
         "mta90.a.hashgains.com",
-        "mta88.a.hashgains.com"
+        "mta88.a.hashgains.com",
+        "api.inwemo.com"
     ],
     "INACTIVE": [
         "www.kncminer.com",
@@ -604,6 +605,28 @@
         "www.files.cointraffic.io",
         "management.cryptopia.co.nz",
         "admin.adconity.com",
-        "rpc.myetherwallet.com"
+        "rpc.myetherwallet.com",
+        "foundry.electrum.org",
+        "www.rpc.myetherwallet.com",
+        "devtopia.cryptopia.co.nz",
+        "localhost.cryptopia.co.nz",
+        "mars.cryptopia.co.nz",
+        "ftp.antminer-store.com",
+        "development.btcturk.com",
+        "mta87.a.hashgains.com",
+        "domainkey.rockwall.investments",
+        "chf.a-ads.com",
+        "infra2.bithumb.com",
+        "admin.coinmama.com",
+        "ad013.a-ads.com",
+        "www3.a-ads.com",
+        "www.ico.icerockmining.io",
+        "jira.cryptopia.co.nz",
+        "www.bch-bitcore2.trezor.io",
+        "www1.a-ads.com",
+        "ad228.a-ads.com",
+        "www.apps2.cointraffic.io",
+        "ftp.quadrigacx.com",
+        "mike.cryptopia.co.nz"
     ]
 }
