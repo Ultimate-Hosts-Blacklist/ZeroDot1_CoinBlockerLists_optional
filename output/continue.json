@@ -405,7 +405,9 @@
         "go.cur.lv",
         "ftp.inwemo.com",
         "mta90.a.hashgains.com",
-        "mta91.a.hashgains.com"
+        "mta91.a.hashgains.com",
+        "api.inwemo.com",
+        "mta86.a.hashgains.com"
     ],
     "INACTIVE": [
         "www.kncminer.com",
@@ -604,6 +606,25 @@
         "beta.bitfinex.com",
         "ad013.a-ads.com",
         "helpdesk2.bitfinex.com",
-        "www.go.coinmama.com"
+        "www.go.coinmama.com",
+        "cpanel.support.hashgains.com",
+        "ftp.imperiumminer.com",
+        "ad012.a-ads.com",
+        "infra2.bithumb.com",
+        "ad.s.a-ads.com",
+        "mta82.a.hashgains.com",
+        "api.mycrypto.com",
+        "ftp.bitcoin-doubler.us",
+        "web5.hashgains.com",
+        "redmine.emercoin.com",
+        "load.cryptopia.co.nz",
+        "management.cryptopia.co.nz",
+        "ftp.quadrigacx.com",
+        "cpanel.imperiumminer.com",
+        "www.bitcore3.trezor.io",
+        "www.wallet.trezor.io",
+        "ad210.a-ads.com",
+        "webdisk.antminer-store.com",
+        "s.a-ads.com"
     ]
 }
