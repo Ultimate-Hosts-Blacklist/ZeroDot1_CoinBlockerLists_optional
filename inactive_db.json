@@ -43,9 +43,6 @@
             "mta85.a.hashgains.com": "INACTIVE",
             "www3.a-ads.com": "INACTIVE"
         },
-        "1577326017": {
-            "mta89.a.hashgains.com": "INACTIVE"
-        },
         "1577326018": {
             "ad007.a-ads.com": "INACTIVE",
             "localhost.quadrigacx.com": "INACTIVE",
@@ -451,8 +448,7 @@
             "apps2.cointraffic.io": "INACTIVE"
         },
         "1577617594": {
-            "ad011.a-ads.com": "INACTIVE",
-            "mta89.a.hashgains.com": "INACTIVE"
+            "ad011.a-ads.com": "INACTIVE"
         },
         "1577617595": {
             "ad224.a-ads.com": "INACTIVE",
@@ -1748,7 +1744,6 @@
             "ups.cryptopia.co.nz": "INACTIVE"
         },
         "1578450303": {
-            "mta89.a.hashgains.com": "INACTIVE",
             "ws.bitfinex.com": "INACTIVE"
         },
         "1578450304": {
@@ -2347,9 +2342,6 @@
         },
         "1578879780": {
             "webdisk.antminer-store.com": "INACTIVE"
-        },
-        "1578879810": {
-            "mta89.a.hashgains.com": "INACTIVE"
         },
         "1578879860": {
             "ad011.a-ads.com": "INACTIVE",
@@ -3933,6 +3925,115 @@
         },
         "1579304349": {
             "www.getbitcoin.nz": "INACTIVE"
+        },
+        "1579387751": {
+            "www.cryptoguiminer.com": "INACTIVE"
+        },
+        "1579387796": {
+            "www.kncminer.com": "INACTIVE"
+        },
+        "1579387898": {
+            "www.tradewin.online": "INACTIVE"
+        },
+        "1579387963": {
+            "mta86.a.hashgains.com": "INACTIVE"
+        },
+        "1579387966": {
+            "www.oracolxor.io": "INACTIVE"
+        },
+        "1579388121": {
+            "admin.coinmama.com": "INACTIVE"
+        },
+        "1579388124": {
+            "pools1.cryptopia.co.nz": "INACTIVE"
+        },
+        "1579388125": {
+            "minecraft.cryptopia.co.nz": "INACTIVE",
+            "tm.btcturk.com": "INACTIVE"
+        },
+        "1579388127": {
+            "ltc.cryptopia.co.nz": "INACTIVE"
+        },
+        "1579388158": {
+            "api.cryptopia.co.nz": "INACTIVE",
+            "mta82.a.hashgains.com": "INACTIVE"
+        },
+        "1579388159": {
+            "ltc-bitcore3.trezor.io": "INACTIVE"
+        },
+        "1579388160": {
+            "babyalex.coinmama.com": "INACTIVE"
+        },
+        "1579388161": {
+            "ad225.a-ads.com": "INACTIVE"
+        },
+        "1579388162": {
+            "www.miningfarmasics.com": "INACTIVE"
+        },
+        "1579388193": {
+            "mta84.a.hashgains.com": "INACTIVE"
+        },
+        "1579388194": {
+            "ups.cryptopia.co.nz": "INACTIVE"
+        },
+        "1579388201": {
+            "minneapolis.rockwall.investments": "INACTIVE"
+        },
+        "1579388202": {
+            "www.go.coinmama.com": "INACTIVE"
+        },
+        "1579388233": {
+            "mta90.a.hashgains.com": "INACTIVE"
+        },
+        "1579388239": {
+            "webdisk.api.cryptoguiminer.com": "INACTIVE"
+        },
+        "1579388242": {
+            "www.files.cointraffic.io": "INACTIVE"
+        },
+        "1579388243": {
+            "jira.cryptopia.co.nz": "INACTIVE"
+        },
+        "1579388244": {
+            "pay.bithumb.com": "INACTIVE"
+        },
+        "1579388250": {
+            "www.cryptoguiminer.com": "INACTIVE"
+        },
+        "1579388251": {
+            "devweb2.cryptopia.co.nz": "INACTIVE",
+            "www.zec-bitcore1.trezor.io": "INACTIVE"
+        },
+        "1579388252": {
+            "bch-bitcore2.trezor.io": "INACTIVE"
+        },
+        "1579388259": {
+            "www.bitcoinminers.eu": "INACTIVE"
+        },
+        "1579388260": {
+            "nodes2.cryptopia.co.nz": "INACTIVE"
+        },
+        "1579388265": {
+            "autodiscover.btc-alpha.com": "INACTIVE",
+            "localhost.cryptopia.co.nz": "INACTIVE"
+        },
+        "1579388266": {
+            "foundry.electrum.org": "INACTIVE"
+        },
+        "1579388296": {
+            "mta91.a.hashgains.com": "INACTIVE"
+        },
+        "1579388297": {
+            "alpha.myetherwallet.com": "INACTIVE"
+        },
+        "1579388300": {
+            "ad210.a-ads.com": "INACTIVE"
+        },
+        "1579388301": {
+            "www.pay.bithumb.com": "INACTIVE"
+        },
+        "1579388327": {
+            "mta89.a.hashgains.com": "INACTIVE"
         }
     }
 }
