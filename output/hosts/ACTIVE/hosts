@@ -55,6 +55,8 @@
 0.0.0.0 btcturk.com
 0.0.0.0 buy.mycrypto.com
 0.0.0.0 careers.coinmama.com
+0.0.0.0 cdn2.inwemo.com
+0.0.0.0 cdn.inwemo.com
 0.0.0.0 certification.bithumb.com
 0.0.0.0 cex.io
 0.0.0.0 chainradar.com
@@ -85,6 +87,7 @@
 0.0.0.0 cryptonotemining.org
 0.0.0.0 cryptopia.co.nz
 0.0.0.0 cur.lv
+0.0.0.0 dashboard.inwemo.com
 0.0.0.0 destek.btcturk.com
 0.0.0.0 devapi.quadrigacx.com
 0.0.0.0 dev.cointraffic.io
@@ -127,11 +130,13 @@
 0.0.0.0 forminerpro.com
 0.0.0.0 ftp.binance.com
 0.0.0.0 ftp.gameofbitcoins.com
+0.0.0.0 ftp.inwemo.com
 0.0.0.0 ftp.mellowads.com
 0.0.0.0 gameofbitcoins.com
 0.0.0.0 getmonero.org
 0.0.0.0 global.binance.com
 0.0.0.0 go.coinmama.com
+0.0.0.0 go.cur.lv
 0.0.0.0 graphql.bixin.im
 0.0.0.0 hashcoin.io
 0.0.0.0 hashcoins.com
@@ -184,7 +189,10 @@
 0.0.0.0 mobile-update.bithumb.com
 0.0.0.0 monero-miner.000webhostapp.com
 0.0.0.0 mta82.a.hashgains.com
+0.0.0.0 mta83.a.hashgains.com
+0.0.0.0 mta84.a.hashgains.com
 0.0.0.0 mta85.a.hashgains.com
+0.0.0.0 mta87.a.hashgains.com
 0.0.0.0 mta88.a.hashgains.com
 0.0.0.0 mta90.a.hashgains.com
 0.0.0.0 mta91.a.hashgains.com
