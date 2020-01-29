@@ -24,6 +24,7 @@
 0.0.0.0 api.cryptoguiminer.com
 0.0.0.0 apidocs.bithumb.com
 0.0.0.0 apidocs.m.bithumb.com
+0.0.0.0 api.inwemo.com
 0.0.0.0 api.jaxx.io
 0.0.0.0 api.ledgerwallet.com
 0.0.0.0 api.mymonero.com
@@ -55,6 +56,7 @@
 0.0.0.0 btcturk.com
 0.0.0.0 buy.mycrypto.com
 0.0.0.0 careers.coinmama.com
+0.0.0.0 cdn2.inwemo.com
 0.0.0.0 cdn.inwemo.com
 0.0.0.0 certification.bithumb.com
 0.0.0.0 cex.io
@@ -81,6 +83,7 @@
 0.0.0.0 coinzilla.io
 0.0.0.0 connect.trezor.io
 0.0.0.0 cosigner.electrum.org
+0.0.0.0 cpanel.cryptoguiminer.com
 0.0.0.0 cpanel.gameofbitcoins.com
 0.0.0.0 cryptoguiminer.com
 0.0.0.0 cryptonaut.org
@@ -188,8 +191,12 @@
 0.0.0.0 mining-rig.de
 0.0.0.0 mobile-update.bithumb.com
 0.0.0.0 monero-miner.000webhostapp.com
+0.0.0.0 mta82.a.hashgains.com
 0.0.0.0 mta83.a.hashgains.com
+0.0.0.0 mta84.a.hashgains.com
 0.0.0.0 mta85.a.hashgains.com
+0.0.0.0 mta86.a.hashgains.com
+0.0.0.0 mta87.a.hashgains.com
 0.0.0.0 mta88.a.hashgains.com
 0.0.0.0 mta89.a.hashgains.com
 0.0.0.0 mta90.a.hashgains.com

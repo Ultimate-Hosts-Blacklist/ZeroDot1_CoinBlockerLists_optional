@@ -5538,6 +5538,81 @@
         },
         "1580262001": {
             "status.coinmama.com": "INACTIVE"
+        },
+        "1580262752": {
+            "mike.rockwall.investments": "INACTIVE",
+            "rpc.myetherwallet.com": "INACTIVE"
+        },
+        "1580262753": {
+            "headers.electrum.org": "INACTIVE"
+        },
+        "1580262756": {
+            "pools1.cryptopia.co.nz": "INACTIVE"
+        },
+        "1580262760": {
+            "apps2.cointraffic.io": "INACTIVE"
+        },
+        "1580262765": {
+            "www.getbitcoin.nz": "INACTIVE"
+        },
+        "1580262771": {
+            "dev.a-ads.com": "INACTIVE",
+            "www.bitcoinminers.eu": "INACTIVE"
+        },
+        "1580262773": {
+            "network.cryptopia.co.nz": "INACTIVE"
+        },
+        "1580262780": {
+            "event.rockwall.investments": "INACTIVE"
+        },
+        "1580262781": {
+            "ad005.a-ads.com": "INACTIVE"
+        },
+        "1580262782": {
+            "cdn1.cryptopia.co.nz": "INACTIVE"
+        },
+        "1580262789": {
+            "ltc.cryptopia.co.nz": "INACTIVE"
+        },
+        "1580262790": {
+            "minneapolis.rockwall.investments": "INACTIVE"
+        },
+        "1580262794": {
+            "admin.adconity.com": "INACTIVE"
+        },
+        "1580262799": {
+            "getbitcoin.nz": "INACTIVE"
+        },
+        "1580262808": {
+            "imperiumminer.com": "INACTIVE"
+        },
+        "1580262809": {
+            "apps.cointraffic.io": "INACTIVE"
+        },
+        "1580262814": {
+            "bitcoinminers.eu": "INACTIVE"
+        },
+        "1580262816": {
+            "ru.cryptopia.co.nz": "INACTIVE",
+            "www.miningfarmasics.com": "INACTIVE"
+        },
+        "1580262817": {
+            "ad224.a-ads.com": "INACTIVE"
+        },
+        "1580262818": {
+            "www.bitcoin-doubler.us": "INACTIVE"
+        },
+        "1580262820": {
+            "development.btcturk.com": "INACTIVE"
+        },
+        "1580262821": {
+            "rm.cointraffic.io": "INACTIVE"
+        },
+        "1580262822": {
+            "miningfarmasics.com": "INACTIVE"
+        },
+        "1580262823": {
+            "www.imperiumminer.com": "INACTIVE"
         }
     }
 }
