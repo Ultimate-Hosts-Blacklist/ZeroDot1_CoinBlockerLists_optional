@@ -6204,6 +6204,15 @@
         "1580525303": {
             "honeypot.cryptopia.co.nz": "INACTIVE",
             "ltc-bitcore3.trezor.io": "INACTIVE"
+        },
+        "1580772374": {
+            "www.kncminer.com": "INACTIVE"
+        },
+        "1580772694": {
+            "justin.bitpay.com": "INACTIVE"
+        },
+        "1580772832": {
+            "staging.community.coinbase.com": "INACTIVE"
         }
     }
 }
