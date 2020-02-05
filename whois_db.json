@@ -64,6 +64,11 @@
         "expiration_date": "03-sep-2020",
         "state": "future"
     },
+    "bitpay.com": {
+        "epoch": 1668470400.0,
+        "expiration_date": "15-nov-2022",
+        "state": "future"
+    },
     "bixin.im": {
         "epoch": 1597708800,
         "expiration_date": "18-aug-2020",
@@ -177,6 +182,11 @@
     "emercoin.com": {
         "epoch": 1826582400,
         "expiration_date": "19-nov-2027",
+        "state": "future"
+    },
+    "epic-ticker.tech": {
+        "epoch": 1601337600.0,
+        "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "ether.cards": {
