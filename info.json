@@ -1,17 +1,8 @@
 {
-    "current_stats": {
-        "builds": 1,
-        "counter": {
-            "down": 75,
-            "invalid": 0,
-            "tested": 573,
-            "up": 498
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Tue Feb  4 01:10:26 2020",
-    "end_epoch": 1580778626.957741,
+    "end_datetime": "Wed Feb  5 02:17:53 2020",
+    "end_epoch": 1580869073.002199,
     "last_autosave_datetime": "Wed Feb  5 01:49:24 2020",
     "last_autosave_epoch": 1580867364.393962,
     "name": "ZeroDot1_CoinBlockerLists_optional",
@@ -19,12 +10,12 @@
         "builds": 2,
         "clean.list": 518,
         "counter": {
-            "down": 247,
+            "down": 249,
             "invalid": 0,
-            "tested": 765,
+            "tested": 767,
             "up": 518
         },
-        "domains.list": 765,
+        "domains.list": 767,
         "volatile.list": 518,
         "whitelisted.list": 518
     },
