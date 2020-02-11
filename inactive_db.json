@@ -7071,9 +7071,6 @@
         "1581212669": {
             "www.kncminer.com": "INACTIVE"
         },
-        "1581212765": {
-            "mta89.a.hashgains.com": "INACTIVE"
-        },
         "1581212854": {
             "www.test.bitpay.com": "INACTIVE"
         },
@@ -7397,6 +7394,140 @@
         },
         "1581214709": {
             "sandbox.exchange.coinbase.com": "INACTIVE"
+        },
+        "1581386444": {
+            "bittip.coinbase.com": "INACTIVE"
+        },
+        "1581386486": {
+            "store.coinbase.com": "INACTIVE"
+        },
+        "1581386522": {
+            "www.engineering.coinbase.com": "INACTIVE"
+        },
+        "1581386668": {
+            "www.blog.coinbase.com": "INACTIVE"
+        },
+        "1581386685": {
+            "ethoca-sandbox.coinbase.com": "INACTIVE"
+        },
+        "1581386688": {
+            "www.oracolxor.io": "INACTIVE"
+        },
+        "1581386759": {
+            "www.kncminer.com": "INACTIVE"
+        },
+        "1581386779": {
+            "press-staging.coinbase.com": "INACTIVE"
+        },
+        "1581386798": {
+            "www.tradewin.online": "INACTIVE"
+        },
+        "1581386844": {
+            "calendar.coinmama.com": "INACTIVE"
+        },
+        "1581386845": {
+            "dash-bitcore1.trezor.io": "INACTIVE"
+        },
+        "1581386846": {
+            "public.sandbox.exchange.coinbase.com": "INACTIVE"
+        },
+        "1581386876": {
+            "mta83.a.hashgains.com": "INACTIVE"
+        },
+        "1581386878": {
+            "ad009.a-ads.com": "INACTIVE",
+            "beta.bitfinex.com": "INACTIVE"
+        },
+        "1581386879": {
+            "localhost.quadrigacx.com": "INACTIVE"
+        },
+        "1581386880": {
+            "wiki.emercoin.com": "INACTIVE"
+        },
+        "1581386887": {
+            "autoconfig.bitcoin-doubler.us": "INACTIVE",
+            "lb4.a-ads.com": "INACTIVE"
+        },
+        "1581386889": {
+            "ad.s.a-ads.com": "INACTIVE"
+        },
+        "1581386919": {
+            "mta86.a.hashgains.com": "INACTIVE"
+        },
+        "1581386920": {
+            "www.imperiumminer.com": "INACTIVE"
+        },
+        "1581386921": {
+            "ad218.a-ads.com": "INACTIVE"
+        },
+        "1581386923": {
+            "www.oracolxor.io": "INACTIVE"
+        },
+        "1581386924": {
+            "mx.peerhash.com": "INACTIVE"
+        },
+        "1581386925": {
+            "api2.bitfinex.com": "INACTIVE"
+        },
+        "1581386926": {
+            "www.go.coinmama.com": "INACTIVE"
+        },
+        "1581386956": {
+            "mta87.a.hashgains.com": "INACTIVE"
+        },
+        "1581386957": {
+            "app0.a-ads.com": "INACTIVE"
+        },
+        "1581386958": {
+            "ad222.a-ads.com": "INACTIVE"
+        },
+        "1581386959": {
+            "www.bitcoinminers.eu": "INACTIVE"
+        },
+        "1581386960": {
+            "ad302.a-ads.com": "INACTIVE"
+        },
+        "1581386963": {
+            "www.apps2.cointraffic.io": "INACTIVE",
+            "www3.a-ads.com": "INACTIVE"
+        },
+        "1581386964": {
+            "ad228.a-ads.com": "INACTIVE",
+            "sandbox.coinbase.com": "INACTIVE"
+        },
+        "1581386965": {
+            "www.miningfarmasics.com": "INACTIVE"
+        },
+        "1581386969": {
+            "www.rm.cointraffic.io": "INACTIVE"
+        },
+        "1581386970": {
+            "chat.coinmama.com": "INACTIVE"
+        },
+        "1581386971": {
+            "files.btcturk.com": "INACTIVE",
+            "ns2.a-ads.com": "INACTIVE"
+        },
+        "1581386972": {
+            "office.cryptopia.co.nz": "INACTIVE"
+        },
+        "1581386973": {
+            "cpanel.uclick.in": "INACTIVE"
+        },
+        "1581386974": {
+            "ftp.coinmama.com": "INACTIVE"
+        },
+        "1581386977": {
+            "www.bitcoin-doubler.us": "INACTIVE"
+        },
+        "1581386978": {
+            "ftp.imperiumminer.com": "INACTIVE"
+        },
+        "1581386979": {
+            "pay.bithumb.com": "INACTIVE"
+        },
+        "1581387009": {
+            "mta89.a.hashgains.com": "INACTIVE"
         }
     }
 }
