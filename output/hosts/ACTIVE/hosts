@@ -26,6 +26,7 @@
 0.0.0.0 api.coinbase.com
 0.0.0.0 api.coinmama.com
 0.0.0.0 api.commerce.coinbase.com
+0.0.0.0 api.cryptoguiminer.com
 0.0.0.0 api.custody.coinbase.com
 0.0.0.0 apidocs.bithumb.com
 0.0.0.0 apidocs.m.bithumb.com
@@ -76,6 +77,7 @@
 0.0.0.0 card.coinbase.com
 0.0.0.0 careers.coinbase.com
 0.0.0.0 careers.coinmama.com
+0.0.0.0 cdn2.inwemo.com
 0.0.0.0 cdn.inwemo.com
 0.0.0.0 certification.bithumb.com
 0.0.0.0 cex.io
@@ -89,6 +91,7 @@
 0.0.0.0 chef.a-ads.com
 0.0.0.0 click.a-ads.com
 0.0.0.0 cloud.awesomeminer.com
+0.0.0.0 cloud.cryptoguiminer.com
 0.0.0.0 cloudflare-resolve-to.rbminer.net
 0.0.0.0 cn.bithumb.com
 0.0.0.0 cn.m.bithumb.com
@@ -106,6 +109,7 @@
 0.0.0.0 community.coinbase.com
 0.0.0.0 connect.trezor.io
 0.0.0.0 cosigner.electrum.org
+0.0.0.0 cpanel.cryptoguiminer.com
 0.0.0.0 cpanel.gameofbitcoins.com
 0.0.0.0 cryptoguiminer.com
 0.0.0.0 cryptonaut.org
@@ -113,6 +117,7 @@
 0.0.0.0 cryptopia.co.nz
 0.0.0.0 cur.lv
 0.0.0.0 custody.coinbase.com
+0.0.0.0 dashboard.inwemo.com
 0.0.0.0 destek.btcturk.com
 0.0.0.0 devapi.quadrigacx.com
 0.0.0.0 dev.bitpay.com
@@ -176,11 +181,13 @@
 0.0.0.0 forminerpro.com
 0.0.0.0 ftp.binance.com
 0.0.0.0 ftp.gameofbitcoins.com
+0.0.0.0 ftp.inwemo.com
 0.0.0.0 ftp.mellowads.com
 0.0.0.0 gameofbitcoins.com
 0.0.0.0 getmonero.org
 0.0.0.0 global.binance.com
 0.0.0.0 go.coinmama.com
+0.0.0.0 go.cur.lv
 0.0.0.0 graphql.bixin.im
 0.0.0.0 hashcoin.io
 0.0.0.0 hashcoins.com
@@ -256,6 +263,7 @@
 0.0.0.0 o1.email.bitpay.com
 0.0.0.0 o1.em.quadrigacx.com
 0.0.0.0 o2.em.quadrigacx.com
+0.0.0.0 o3.em.quadrigacx.com
 0.0.0.0 o4.em.quadrigacx.com
 0.0.0.0 o5.em.quadrigacx.com
 0.0.0.0 o6.em.quadrigacx.com
@@ -298,6 +306,7 @@
 0.0.0.0 return.bithumb.com
 0.0.0.0 ripple.com
 0.0.0.0 rockwall.investments
+0.0.0.0 rt.quadrigacx.com
 0.0.0.0 safelinkconverter.com
 0.0.0.0 seed1.emercoin.com
 0.0.0.0 seed2.emercoin.com
@@ -372,6 +381,7 @@
 0.0.0.0 web6.hashgains.com
 0.0.0.0 web.bixin.im
 0.0.0.0 webdisk.api.cryptoguiminer.com
+0.0.0.0 webdisk.cryptoguiminer.com
 0.0.0.0 whattomine.com
 0.0.0.0 whm.gameofbitcoins.com
 0.0.0.0 widget.coinmama.com
@@ -415,6 +425,7 @@
 0.0.0.0 www.changelly.com
 0.0.0.0 www.chat2.binance.com
 0.0.0.0 www.chat.binance.com
+0.0.0.0 www.cloud.cryptoguiminer.com
 0.0.0.0 www.coinad.com
 0.0.0.0 www.coinadnet.com
 0.0.0.0 www.coinbase.com
