@@ -516,7 +516,8 @@
         "o3.em.quadrigacx.com",
         "mta83.a.hashgains.com",
         "webdisk.api.cryptoguiminer.com",
-        "cpanel.cryptoguiminer.com"
+        "cpanel.cryptoguiminer.com",
+        "rt.quadrigacx.com"
     ],
     "INACTIVE": [
         "blog-staging.coinbase.com",
@@ -741,6 +742,30 @@
         "www.engineering.coinbase.com",
         "wwww.coinbase.com",
         "mike.rockwall.investments",
-        "preprod.simplemining.net"
+        "preprod.simplemining.net",
+        "www.zec-bitcore1.trezor.io",
+        "autodiscover.btc-alpha.com",
+        "bng.btc-alpha.com",
+        "ad226.a-ads.com",
+        "jp.simplemining.net",
+        "w.cryptopia.co.nz",
+        "dev.a-ads.com",
+        "www.shop.simplemining.net",
+        "babyalex.coinmama.com",
+        "blog-dev.coinbase.com",
+        "doge.cryptopia.co.nz",
+        "help.cryptopia.co.nz",
+        "cf-ssl28641-protected.coinbase.com",
+        "network.cryptopia.co.nz",
+        "press-dev.coinbase.com",
+        "api1.bithumb.com",
+        "web5.hashgains.com",
+        "cpanel.antminer-store.com",
+        "calendar.coinmama.com",
+        "ad013.a-ads.com",
+        "www.go.coinmama.com",
+        "admin.coinmama.com",
+        "dc.rockwall.investments",
+        "headers.electrum.org"
     ]
 }
