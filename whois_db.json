@@ -310,9 +310,9 @@
         "state": "future"
     },
     "masternodes4everyone.com": {
-        "epoch": 1582156800,
+        "epoch": 1582156800.0,
         "expiration_date": "20-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "mellowads.com": {
         "epoch": 1583193600,
