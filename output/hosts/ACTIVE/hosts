@@ -27,10 +27,12 @@
 0.0.0.0 api.coinbase.com
 0.0.0.0 api.coinmama.com
 0.0.0.0 api.commerce.coinbase.com
+0.0.0.0 api.cryptoguiminer.com
 0.0.0.0 api.custody.coinbase.com
 0.0.0.0 apidocs.bithumb.com
 0.0.0.0 apidocs.m.bithumb.com
 0.0.0.0 api.exchange.coinbase.com
+0.0.0.0 api.inwemo.com
 0.0.0.0 api.jaxx.io
 0.0.0.0 api.ledgerwallet.com
 0.0.0.0 api.mymonero.com
@@ -78,6 +80,7 @@
 0.0.0.0 careers.coinbase.com
 0.0.0.0 careers.coinmama.com
 0.0.0.0 cdn2.inwemo.com
+0.0.0.0 cdn.inwemo.com
 0.0.0.0 certification.bithumb.com
 0.0.0.0 cex.io
 0.0.0.0 chainradar.com
@@ -117,6 +120,7 @@
 0.0.0.0 cryptopia.co.nz
 0.0.0.0 cur.lv
 0.0.0.0 custody.coinbase.com
+0.0.0.0 dashboard.inwemo.com
 0.0.0.0 dc-69ad656f88bf.burstpay.io
 0.0.0.0 destek.btcturk.com
 0.0.0.0 devapi.quadrigacx.com
@@ -182,6 +186,7 @@
 0.0.0.0 forminerpro.com
 0.0.0.0 ftp.binance.com
 0.0.0.0 ftp.gameofbitcoins.com
+0.0.0.0 ftp.inwemo.com
 0.0.0.0 ftp.mellowads.com
 0.0.0.0 gameofbitcoins.com
 0.0.0.0 getmonero.org
@@ -394,6 +399,7 @@
 0.0.0.0 web.bixin.im
 0.0.0.0 webdisk.api.cryptoguiminer.com
 0.0.0.0 webdisk.burstpay.io
+0.0.0.0 webdisk.cryptoguiminer.com
 0.0.0.0 webmail.burstpay.io
 0.0.0.0 whattomine.com
 0.0.0.0 whm.gameofbitcoins.com
