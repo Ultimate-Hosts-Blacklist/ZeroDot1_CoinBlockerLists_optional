@@ -32,6 +32,7 @@
 0.0.0.0 apidocs.bithumb.com
 0.0.0.0 apidocs.m.bithumb.com
 0.0.0.0 api.exchange.coinbase.com
+0.0.0.0 api.inwemo.com
 0.0.0.0 api.jaxx.io
 0.0.0.0 api.ledgerwallet.com
 0.0.0.0 api.mymonero.com
@@ -185,6 +186,7 @@
 0.0.0.0 forminerpro.com
 0.0.0.0 ftp.binance.com
 0.0.0.0 ftp.gameofbitcoins.com
+0.0.0.0 ftp.inwemo.com
 0.0.0.0 ftp.mellowads.com
 0.0.0.0 gameofbitcoins.com
 0.0.0.0 getmonero.org
@@ -257,13 +259,16 @@
 0.0.0.0 mobile-update.bithumb.com
 0.0.0.0 monero-miner.000webhostapp.com
 0.0.0.0 monitorig.com
+0.0.0.0 mta82.a.hashgains.com
 0.0.0.0 mta83.a.hashgains.com
 0.0.0.0 mta84.a.hashgains.com
 0.0.0.0 mta85.a.hashgains.com
 0.0.0.0 mta86.a.hashgains.com
+0.0.0.0 mta87.a.hashgains.com
 0.0.0.0 mta88.a.hashgains.com
 0.0.0.0 mta89.a.hashgains.com
 0.0.0.0 mta90.a.hashgains.com
+0.0.0.0 mta91.a.hashgains.com
 0.0.0.0 multipoolminer.io
 0.0.0.0 mycrypto.com
 0.0.0.0 my.cur.lv
@@ -319,6 +324,7 @@
 0.0.0.0 return.bithumb.com
 0.0.0.0 ripple.com
 0.0.0.0 rockwall.investments
+0.0.0.0 rt.quadrigacx.com
 0.0.0.0 safelinkconverter.com
 0.0.0.0 seed1.emercoin.com
 0.0.0.0 seed2.emercoin.com
