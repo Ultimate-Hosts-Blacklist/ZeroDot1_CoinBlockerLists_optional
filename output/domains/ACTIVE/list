@@ -27,10 +27,12 @@ api.btcturk.com
 api.coinbase.com
 api.coinmama.com
 api.commerce.coinbase.com
+api.cryptoguiminer.com
 api.custody.coinbase.com
 apidocs.bithumb.com
 apidocs.m.bithumb.com
 api.exchange.coinbase.com
+api.inwemo.com
 api.jaxx.io
 api.ledgerwallet.com
 api.mymonero.com
@@ -77,6 +79,7 @@ bws.bitpay.com
 card.coinbase.com
 careers.coinbase.com
 careers.coinmama.com
+cdn2.inwemo.com
 cdn.inwemo.com
 certification.bithumb.com
 cex.io
@@ -109,6 +112,7 @@ community.coinbase.com
 connect.trezor.io
 cosigner.electrum.org
 cpanel.burstpay.io
+cpanel.cryptoguiminer.com
 cpanel.gameofbitcoins.com
 cryptoguiminer.com
 cryptonaut.org
@@ -116,6 +120,7 @@ cryptonotemining.org
 cryptopia.co.nz
 cur.lv
 custody.coinbase.com
+dashboard.inwemo.com
 dc-69ad656f88bf.burstpay.io
 destek.btcturk.com
 devapi.quadrigacx.com
@@ -181,10 +186,12 @@ fix.pro.coinbase.com
 forminerpro.com
 ftp.binance.com
 ftp.gameofbitcoins.com
+ftp.inwemo.com
 ftp.mellowads.com
 gameofbitcoins.com
 getmonero.org
 global.binance.com
+go.coinmama.com
 go.cur.lv
 graphql.bixin.im
 hashcoin.io
@@ -264,6 +271,7 @@ node.jwallet.network
 o1.email.bitpay.com
 o1.em.quadrigacx.com
 o2.em.quadrigacx.com
+o3.em.quadrigacx.com
 o4.em.quadrigacx.com
 o5.em.quadrigacx.com
 o6.em.quadrigacx.com
@@ -380,7 +388,9 @@ web1.hashgains.com
 web2.hashgains.com
 web6.hashgains.com
 web.bixin.im
+webdisk.api.cryptoguiminer.com
 webdisk.burstpay.io
+webdisk.cryptoguiminer.com
 webmail.burstpay.io
 whattomine.com
 whm.gameofbitcoins.com
@@ -427,6 +437,7 @@ www.chainradar.com
 www.changelly.com
 www.chat2.binance.com
 www.chat.binance.com
+www.cloud.cryptoguiminer.com
 www.coinad.com
 www.coinadnet.com
 www.coinbase.com
