@@ -6,6 +6,7 @@
 0.0.0.0 ad005.a-ads.com
 0.0.0.0 ad007.a-ads.com
 0.0.0.0 ad008.a-ads.com
+0.0.0.0 ad009.a-ads.com
 0.0.0.0 ad011.a-ads.com
 0.0.0.0 ad012.a-ads.com
 0.0.0.0 ad013.a-ads.com
@@ -18,10 +19,12 @@
 0.0.0.0 ad212.a-ads.com
 0.0.0.0 ad213.a-ads.com
 0.0.0.0 ad216.a-ads.com
+0.0.0.0 ad217.a-ads.com
 0.0.0.0 ad218.a-ads.com
 0.0.0.0 ad222.a-ads.com
 0.0.0.0 ad224.a-ads.com
 0.0.0.0 ad225.a-ads.com
+0.0.0.0 ad226.a-ads.com
 0.0.0.0 ad228.a-ads.com
 0.0.0.0 ad302.a-ads.com
 0.0.0.0 adc.cryptopia.co.nz
@@ -34,6 +37,7 @@
 0.0.0.0 api.cryptopia.co.nz
 0.0.0.0 api.mycrypto.com
 0.0.0.0 api.sandbox.coinbase.com
+0.0.0.0 app0.a-ads.com
 0.0.0.0 apps2.cointraffic.io
 0.0.0.0 apps.cointraffic.io
 0.0.0.0 autoconfig.bitcoin-doubler.us
@@ -46,6 +50,7 @@
 0.0.0.0 beta.bitfinex.com
 0.0.0.0 beta.simplemining.net
 0.0.0.0 bitcoin-doubler.us
+0.0.0.0 bittip.coinbase.com
 0.0.0.0 blog-dev.coinbase.com
 0.0.0.0 blog-staging.coinbase.com
 0.0.0.0 bng.btc-alpha.com
@@ -64,6 +69,7 @@
 0.0.0.0 dc.rockwall.investments
 0.0.0.0 dev.a-ads.com
 0.0.0.0 dev.coinmama.com
+0.0.0.0 development.btcturk.com
 0.0.0.0 devtopia.cryptopia.co.nz
 0.0.0.0 devweb2.cryptopia.co.nz
 0.0.0.0 dev-xhlkashd.coinmama.com
@@ -134,6 +140,7 @@
 0.0.0.0 mta82.hashgains.com
 0.0.0.0 mx.peerhash.com
 0.0.0.0 n1.cryptopia.co.nz
+0.0.0.0 netvision.cryptopia.co.nz
 0.0.0.0 network.cryptopia.co.nz
 0.0.0.0 next.btc-alpha.com
 0.0.0.0 nodes1.cryptopia.co.nz
@@ -147,7 +154,9 @@
 0.0.0.0 poc.simplemining.net
 0.0.0.0 pools1.cryptopia.co.nz
 0.0.0.0 pools2.cryptopia.co.nz
+0.0.0.0 pools.cryptopia.co.nz
 0.0.0.0 pop3.awesomeminer.com
+0.0.0.0 pport.cryptopia.co.nz
 0.0.0.0 prelive.cryptopia.co.nz
 0.0.0.0 preprod.simplemining.net
 0.0.0.0 press.coinbase.com
@@ -176,13 +185,18 @@
 0.0.0.0 test.rockwall.investments
 0.0.0.0 tm.btcturk.com
 0.0.0.0 unauthorized.btcturk.com
+0.0.0.0 unauthorized.cryptopia.co.nz
+0.0.0.0 upload.a-ads.com
 0.0.0.0 ups.cryptopia.co.nz
+0.0.0.0 w.cryptopia.co.nz
 0.0.0.0 web3.hashgains.com
 0.0.0.0 web4.hashgains.com
 0.0.0.0 web5.hashgains.com
 0.0.0.0 webdisk.antminer-store.com
+0.0.0.0 webdisk.uclick.in
 0.0.0.0 wiki.emercoin.com
 0.0.0.0 ws.bitfinex.com
+0.0.0.0 wss1.bithumb.com
 0.0.0.0 ws.sandbox.coinbase.com
 0.0.0.0 ww.cryptopia.co.nz
 0.0.0.0 www.0x.mycrypto.com
@@ -191,6 +205,8 @@
 0.0.0.0 www.alpha.myetherwallet.com
 0.0.0.0 www.api.mymonero.com
 0.0.0.0 www.apps2.cointraffic.io
+0.0.0.0 www.apps.cointraffic.io
+0.0.0.0 www.bch-bitcore2.trezor.io
 0.0.0.0 www.beta-wallet.trezor.io
 0.0.0.0 www.bitcoin-doubler.us
 0.0.0.0 www.bitcore1.trezor.io
@@ -198,6 +214,7 @@
 0.0.0.0 www.blog.coinbase.com
 0.0.0.0 www.btc-bitcore1.trezor.io
 0.0.0.0 www.btc-bitcore3.trezor.io
+0.0.0.0 www.connect.trezor.io
 0.0.0.0 www.dash-bitcore1.trezor.io
 0.0.0.0 www.docs.custody.coinbase.com
 0.0.0.0 www.engineering.coinbase.com
@@ -216,6 +233,7 @@
 0.0.0.0 www.monitorig.com
 0.0.0.0 www.old-wallet.trezor.io
 0.0.0.0 www.oracolxor.io
+0.0.0.0 www.overflow.mycrypto.com
 0.0.0.0 www.pay.bithumb.com
 0.0.0.0 www.preorder.trezor.io
 0.0.0.0 www.rm.cointraffic.io

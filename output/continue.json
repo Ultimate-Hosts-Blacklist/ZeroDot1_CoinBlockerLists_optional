@@ -531,7 +531,8 @@
         "mta86.a.hashgains.com",
         "mta85.a.hashgains.com",
         "mta83.a.hashgains.com",
-        "mta87.a.hashgains.com"
+        "mta87.a.hashgains.com",
+        "mta91.a.hashgains.com"
     ],
     "INACTIVE": [
         "www.bitcore1.trezor.io",
@@ -764,6 +765,24 @@
         "api.mycrypto.com",
         "www.api.mymonero.com",
         "web5.hashgains.com",
-        "mail.coinbase.com"
+        "mail.coinbase.com",
+        "bittip.coinbase.com",
+        "w.cryptopia.co.nz",
+        "www.bch-bitcore2.trezor.io",
+        "app0.a-ads.com",
+        "development.btcturk.com",
+        "ad009.a-ads.com",
+        "upload.a-ads.com",
+        "pools.cryptopia.co.nz",
+        "pport.cryptopia.co.nz",
+        "www.overflow.mycrypto.com",
+        "netvision.cryptopia.co.nz",
+        "ad217.a-ads.com",
+        "unauthorized.cryptopia.co.nz",
+        "www.apps.cointraffic.io",
+        "www.connect.trezor.io",
+        "ad226.a-ads.com",
+        "webdisk.uclick.in",
+        "wss1.bithumb.com"
     ]
 }
