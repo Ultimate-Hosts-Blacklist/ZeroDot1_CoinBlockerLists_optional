@@ -1,6 +1,14 @@
 {
-    "current_stats": {
-        "builds": 1,
+    "currently_under_test": false,
+    "days_until_next_test": 2,
+    "end_datetime": "2020-03-04T11:22:47.692654",
+    "end_epoch": 1583235422.740766,
+    "last_autosave_datetime": "2020-03-04T11:22:47.692868",
+    "last_autosave_epoch": 1583148181.611203,
+    "name": "ZeroDot1_CoinBlockerLists_optional",
+    "previous_stats": {
+        "builds": 2,
+        "clean_list": 517,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -10,29 +18,9 @@
             "up": 0,
             "valid": 0
         },
-        "volatile.list": 533,
-        "whitelisted.list": 533
-    },
-    "currently_under_test": true,
-    "days_until_next_test": 2,
-    "end_datetime": "2020-03-04T11:22:47.692654",
-    "end_epoch": 1583235422.740766,
-    "last_autosave_datetime": "2020-03-04T11:22:47.692868",
-    "last_autosave_epoch": 1583148181.611203,
-    "name": "ZeroDot1_CoinBlockerLists_optional",
-    "previous_stats": {
-        "builds": 1,
-        "clean.list": 533,
-        "counter": {
-            "down": 249,
-            "invalid": 0,
-            "tested": 782,
-            "up": 533
-        },
-        "domains.list": 782,
-        "ip.list": 0,
-        "volatile.list": 533,
-        "whitelisted.list": 533
+        "domains.list": 776,
+        "volatile.list": 517,
+        "whitelisted.list": 517
     },
     "raw_link": "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_optional.txt",
     "start_datetime": "2020-03-04T11:22:49.121366",
