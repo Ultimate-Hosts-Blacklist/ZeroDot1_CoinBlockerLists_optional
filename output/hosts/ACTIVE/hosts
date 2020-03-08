@@ -405,7 +405,9 @@
 0.0.0.0 ws.ledgerwallet.com
 0.0.0.0 ws.quadrigacx.com
 0.0.0.0 wss.bithumb.com
+0.0.0.0 www1.bithumb.com
 0.0.0.0 www.1safe.link
+0.0.0.0 www2.coinbase.com
 0.0.0.0 www.803mine.com
 0.0.0.0 www.a-ads.com
 0.0.0.0 www.adconity.com
@@ -507,8 +509,11 @@
 0.0.0.0 www.sftp.binance.com
 0.0.0.0 www.shapeshift.io
 0.0.0.0 www.simplemining.net
+0.0.0.0 www.stream2.binance.com
 0.0.0.0 www.stream.binance.com
 0.0.0.0 www.superbitcoiner.com
+0.0.0.0 www.support.binance.com
 0.0.0.0 www.trezor.io
 0.0.0.0 www.upcoin.com
+0.0.0.0 www.us.binance.com
 0.0.0.0 www.whattomine.com

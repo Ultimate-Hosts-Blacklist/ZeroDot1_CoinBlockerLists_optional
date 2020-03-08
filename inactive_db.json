@@ -3052,6 +3052,21 @@
         },
         "1583665235": {
             "www.status.trezor.io": "INACTIVE"
+        },
+        "1583670317": {
+            "www.support.bitpay.com": "INACTIVE",
+            "www.test.bitpay.com": "INACTIVE"
+        },
+        "1583670319": {
+            "www.wallet.trezor.io": "INACTIVE"
+        },
+        "1583670320": {
+            "www.wiki.trezor.io": "INACTIVE",
+            "www.zec-bitcore1.trezor.io": "INACTIVE",
+            "www1.a-ads.com": "INACTIVE",
+            "www3.a-ads.com": "INACTIVE",
+            "wwww.coinbase.com": "INACTIVE",
+            "zec-bitcore1.trezor.io": "INACTIVE"
         }
     }
 }
