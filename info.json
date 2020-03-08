@@ -1,5 +1,19 @@
 {
-    "currently_under_test": false,
+    "current_stats": {
+        "builds": 1,
+        "counter": {
+            "down": 0,
+            "invalid": 0,
+            "malicious": 0,
+            "sane": 0,
+            "tested": 0,
+            "up": 0,
+            "valid": 0
+        },
+        "volatile.list": 533,
+        "whitelisted.list": 533
+    },
+    "currently_under_test": true,
     "days_until_next_test": 2,
     "end_datetime": "2020-03-04T11:22:47.692654",
     "end_epoch": 1583235422.740766,
@@ -23,6 +37,6 @@
         "whitelisted.list": 533
     },
     "raw_link": "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_optional.txt",
-    "start_datetime": "2020-03-06T11:16:22.331460",
-    "start_epoch": 1583493382.33146
+    "start_datetime": "2020-03-08T10:50:41.151951",
+    "start_epoch": 1583664641.151951
 }
