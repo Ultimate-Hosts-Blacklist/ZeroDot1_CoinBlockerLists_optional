@@ -4642,6 +4642,13 @@
             "www1.a-ads.com": "INACTIVE",
             "www3.a-ads.com": "INACTIVE",
             "wwww.coinbase.com": "INACTIVE"
+        },
+        "1584185012": {
+            "mta82.a.hashgains.com": "INACTIVE"
+        },
+        "1584185043": {
+            "mta83.a.hashgains.com": "INACTIVE",
+            "mta84.a.hashgains.com": "INACTIVE"
         }
     }
 }
