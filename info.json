@@ -3,11 +3,11 @@
     "days_until_next_test": 2,
     "end_datetime": "2020-03-04T11:22:47.692654",
     "end_epoch": 1583235422.740766,
+    "issue_link": "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/issues/new",
     "last_autosave_datetime": "2020-03-04T11:22:47.692868",
     "last_autosave_epoch": 1583148181.611203,
-    "name": "ZeroDot1_CoinBlockerLists_optional",
     "link": "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_optional.txt",
-    "issue_link": "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/issues/new",
+    "name": "ZeroDot1_CoinBlockerLists_optional",
     "previous_stats": {
         "builds": 1,
         "clean_list": 541,
@@ -25,6 +25,6 @@
         "whitelisted.list": 541
     },
     "raw_link": "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_optional.txt",
-    "start_datetime": "2020-04-08T01:57:08.675151",
-    "start_epoch": 1586311028.675151
+    "start_datetime": "2020-04-08T10:41:31.844803",
+    "start_epoch": 1586342491.844803
 }
