@@ -377,7 +377,7 @@
     "pandaminer.co": {
         "epoch": 1586476800.0,
         "expiration_date": "10-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "parthk.co.uk": {
         "epoch": 1596067200.0,
