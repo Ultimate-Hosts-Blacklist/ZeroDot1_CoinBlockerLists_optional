@@ -10,7 +10,7 @@
     "name": "ZeroDot1_CoinBlockerLists_optional",
     "previous_stats": {
         "builds": 1,
-        "clean_list": 540,
+        "clean_list": 539,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -21,10 +21,10 @@
             "valid": 0
         },
         "domains.list": 792,
-        "volatile.list": 540,
-        "whitelisted.list": 540
+        "volatile.list": 539,
+        "whitelisted.list": 539
     },
     "raw_link": "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_optional.txt",
-    "start_datetime": "2020-05-22T03:21:58.494722",
-    "start_epoch": 1590117718.494722
+    "start_datetime": "2020-05-24T03:13:35.094125",
+    "start_epoch": 1590290015.094125
 }
